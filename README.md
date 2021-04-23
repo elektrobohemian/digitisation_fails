@@ -47,9 +47,28 @@ Lehren aus der Corona-Krise; Gutachten des Wissenschaftlichen Beirats beim Bunde
         * https://gitlab.com/lucaapp
     * Meanwhile at Corona Warn-App - komplette Offenlegung:
         * https://github.com/corona-warn-app
+    * 13.04. [CCC: Luca-App: CCC fordert Bundesnotbremse](https://www.ccc.de/de/updates/2021/luca-app-ccc-fordert-bundesnotbremse)
+    * 13.04. [SZ: "Luca" und das Problem mit den Schlüsselanhängern](https://www.sueddeutsche.de/wirtschaft/kontaktnachverfolgung-corona-app-tracking-datenschutz-1.5263996?reduced=true)
+    * 14.04. [deutschlandfunk: Chaos Computer Club: „Keine Steuermittel mehr für Luca-App einsetzen“](https://www.deutschlandfunk.de/kontaktnachverfolgung-chaos-computer-club-keine.2849.de.html?drn:news_id=1248352)
+    * 14.04. [Spiegel: Chaos Computer Club fordert Stopp von Luca](https://www.spiegel.de/netzwelt/apps/luca-chaos-computer-club-fordert-stopp-der-app-a-072c7828-604c-48ff-add0-09040cef481f)
+    * 15.04. [golem.de: Entwickler der Luca-App bezeichnen CCC-Kritik als überzogen](https://www.golem.de/news/stellungnahme-entwickler-der-luca-app-bezeichnen-ccc-kritik-als-ueberzogen-2104-155763.html)
+    * 16.04. [heise: 
+Nach wachsender Kritik aus IT-Kreisen: Landesdatenschützer prüft Luca-App](https://www.heise.de/news/Nach-wachsender-Kritik-aus-IT-Kreisen-Landesdatenschuetzer-prueft-Luca-App-6017564.html)
+    * 08.04. [rbb24 Luca-App steht in Berlin offenbar kurz vor dem Start](https://www.rbb24.de/content/rbb/r24/politik/thema/corona/beitraege/2021/04/luca-app-berlin-gesundheitsamt-datenschutz.html)
+    * 16.04. [Interview radioeins mit Linus Neumann/CCC](https://www.radioeins.de/programm/sendungen/die_schoene_woche/_/chaos-computer-club-fordert-stopp-von-luca-app.html) (Sicherheitskopie nötig, da nur bis 16.05. online)
+    * 16.04. [luca: Stellungnahme zum Schreiben des CCC vom 13. April 2021](https://www.luca-app.de/stellungnahme-zum-schreiben-des-ccc-vom-13-april-2021/)
+    * 16.04. Corona Warn App [netzpolitik.org: „Dann hat man irgendwie das Interesse verloren“](https://netzpolitik.org/2021/bilanz-der-corona-warn-app-dann-hat-man-irgendwie-das-interesse-verloren/)
+    * 17.04. [Intervie Berliner Zeitung: Gründer der Luca-App im Interview: „Wir erleben eine typisch deutsche Debatte“](https://www.berliner-zeitung.de/wochenende/gespraech-zu-luca-app-wir-erleben-jetzt-eine-typisch-deutsche-debatte-li.153041)
+    * 17.04. [Nach massiver Kritik: Warum Bremen die Luca-App trotzdem nutzen will](https://www.butenunbinnen.de/nachrichten/politik/corona-warnapp-luca-einsatz-in-bremen-100.html)
+    * 20.04. [taz: Sicher ist anders](https://taz.de/Streit-um-Luca-App-in-Berlin/!5767152/)
+    * [Wikipedia-Eintrag](https://de.wikipedia.org/wiki/Luca_%28App%29#Vergabeverfahren)
+    * Lucia App
+        * In Germany, the government is rolling out an app for QR code based contact tracing. The app claims to protect user data but actually it does not, at least at the time of writing. [...] The Lucia app is capable of generating fake QR codes that users can use to check in at locations while not providing any personal data whatsoever.
+        * [Projektrepo Lucia](https://codeberg.org/errhammr/Lucia-App)
 * Einsatz von Clubhouse in der ÖV (Reaktion InitiaveD21 aufnehmen und loben für gute Kommunikation), insb. mit Bezug auf Barrierefreiheit
     * [Clubhouse: Ärger wegen Sicherheitslücken und Datentransfer nach China](https://www.heise.de/news/Clubhouse-Aerger-wegen-Sicherheitsluecken-und-Datentransfer-nach-China-5055434.html)
     * [Clubhouse: 1,3 Millionen benutzerbezogene Daten im Netz](https://www.heise.de/news/Clubhouse-1-3-Millionen-benutzerbezogene-Daten-im-Netz-6010931.html)
+    * [A Clubhouse bug let people lurk in rooms invisibly](https://arstechnica.com/information-technology/2021/04/a-clubhouse-bug-let-people-lurk-in-rooms-invisibly/)
 
 * System-zentrierter Ansatz beim e-Perso (offenbar ohne User-Fokus entwickelt)
     * ["Das kleine große Vorbild
@@ -123,6 +142,8 @@ Schülerscherze und Angriffe - Unbekannter stören den Onlineunterricht; c't 202
     * [EU-Cloud: Gaia-X-Allianz begrüßt Palantir, Huawei, Alibaba & Co. als Mitglieder](https://www.heise.de/news/EU-Cloud-Gaia-X-Allianz-begruesst-Palantir-Huawei-Alibaba-Co-als-Mitglieder-6005511.html)
 * [Digitale Souveränität](https://www.heise.de/news/Teures-Prestigeprojekt-Europas-souveraene-Chips-6010032.html)
 
+* Digitaler Impfpass
+    * [Digitaler Corona-Impfpass: IBM, Ubirch und fünf Blockchains](https://www.heise.de/news/Digitaler-Corona-Impfpass-IBM-Ubirch-und-fuenf-Blockchains-5076161.html)
 ## Fails in Teilen einer Organisation
 
 [Stiftung Preußischer Kulturbesitz](./sources/spk_wissenschaftsrat_8520-20.pdf)
