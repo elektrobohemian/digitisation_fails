@@ -47,6 +47,9 @@ Lehren aus der Corona-Krise; Gutachten des Wissenschaftlichen Beirats beim Bunde
         * https://gitlab.com/lucaapp
     * Meanwhile at Corona Warn-App - komplette Offenlegung:
         * https://github.com/corona-warn-app
+    * 31.03 Luca verletzt OSS-Lizenzen
+        * [Problem 1](https://twitter.com/ralf/status/1377127671017054212?s=20)
+        * [Problem 2](https://twitter.com/ralf/status/1377159413358682118?s=20)
     * 13.04. [CCC: Luca-App: CCC fordert Bundesnotbremse](https://www.ccc.de/de/updates/2021/luca-app-ccc-fordert-bundesnotbremse)
     * 13.04. [SZ: "Luca" und das Problem mit den Schlüsselanhängern](https://www.sueddeutsche.de/wirtschaft/kontaktnachverfolgung-corona-app-tracking-datenschutz-1.5263996?reduced=true)
     * 14.04. [deutschlandfunk: Chaos Computer Club: „Keine Steuermittel mehr für Luca-App einsetzen“](https://www.deutschlandfunk.de/kontaktnachverfolgung-chaos-computer-club-keine.2849.de.html?drn:news_id=1248352)
@@ -58,10 +61,19 @@ Nach wachsender Kritik aus IT-Kreisen: Landesdatenschützer prüft Luca-App](htt
     * 16.04. [Interview radioeins mit Linus Neumann/CCC](https://www.radioeins.de/programm/sendungen/die_schoene_woche/_/chaos-computer-club-fordert-stopp-von-luca-app.html) (Sicherheitskopie nötig, da nur bis 16.05. online)
     * 16.04. [luca: Stellungnahme zum Schreiben des CCC vom 13. April 2021](https://www.luca-app.de/stellungnahme-zum-schreiben-des-ccc-vom-13-april-2021/)
     * 16.04. Corona Warn App [netzpolitik.org: „Dann hat man irgendwie das Interesse verloren“](https://netzpolitik.org/2021/bilanz-der-corona-warn-app-dann-hat-man-irgendwie-das-interesse-verloren/)
+    * 16.04. [LfDI BaWü: Podcast Datenfreiheit – Folge 11: Luca App in der Kritik](https://www.baden-wuerttemberg.datenschutz.de/podcast-datenfreiheit-folge-11-luca-app-in-der-kritik/)
     * 17.04. [Intervie Berliner Zeitung: Gründer der Luca-App im Interview: „Wir erleben eine typisch deutsche Debatte“](https://www.berliner-zeitung.de/wochenende/gespraech-zu-luca-app-wir-erleben-jetzt-eine-typisch-deutsche-debatte-li.153041)
     * 17.04. [Nach massiver Kritik: Warum Bremen die Luca-App trotzdem nutzen will](https://www.butenunbinnen.de/nachrichten/politik/corona-warnapp-luca-einsatz-in-bremen-100.html)
     * 20.04. [taz: Sicher ist anders](https://taz.de/Streit-um-Luca-App-in-Berlin/!5767152/)
     * [Wikipedia-Eintrag](https://de.wikipedia.org/wiki/Luca_%28App%29#Vergabeverfahren)
+    * 23.04. [der freitag: Luca kam, sah – und spionierte Corona Die Länder geben 20 Millionen Euro für eine überflüssige App aus](https://www.freitag.de/autoren/der-freitag/luca-kam-sah-und-spionierte)
+    * 28.04. [taz: Datenschutzexperte über die Luca-App „Haufenweise Sicherheitslücken“](https://taz.de/Datenschutzexperte-ueber-die-Luca-App/!5762877/)
+    * 29.04. [netzpolitk.org: Gesundheitsämter nutzen Luca kaum](https://netzpolitik.org/2021/digitale-kontaktnachverfolgung-gesundheitsaemter-nutzen-luca-kaum/)
+    * 29.04. [iX: Corona-Tracking: Luca-Überwachung lässt sich mit Fake-Datenmüll aushebeln](https://www.heise.de/news/Corona-Tracking-Luca-Ueberwachung-laesst-sich-mit-Fake-Datenmuell-aushebeln-6031572.html)
+    * 29.04. [Heise: Sicherheitsforscher: Risiken der Luca-App "völlig unverhältnismäßig"](https://www.heise.de/news/Sicherheitsforscher-Risiken-der-Luca-App-voellig-unverhaeltnismaessig-6031770.html)
+        * [Gemeinsame Stellungnahme zur digitalen Kontaktnachverfolgung durch IT-Security-Professor*innen](https://digikoletter.github.io)
+    * 04.05. [Zeit: Was bringt die Luca-App den Gesundheitsämtern wirklich?](https://www.zeit.de/digital/datenschutz/2021-04/luca-app-gesundheitsaemter-corona-kontaktverfolgung-hackerangriff-risiko?utm_referrer=https%3A%2F%2Ft.co%2F)
+    * 04.05. [heise Developer: Episode 83: Architektur-Fehlschläge in aller Öffentlichkeit (am Beispiel Luca App)](https://www.heise.de/developer/artikel/Episode-83-Architektur-Fehlschlaege-in-aller-Oeffentlichkeit-6033205.html)
     * Lucia App
         * In Germany, the government is rolling out an app for QR code based contact tracing. The app claims to protect user data but actually it does not, at least at the time of writing. [...] The Lucia app is capable of generating fake QR codes that users can use to check in at locations while not providing any personal data whatsoever.
         * [Projektrepo Lucia](https://codeberg.org/errhammr/Lucia-App)
