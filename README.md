@@ -72,11 +72,25 @@ Nach wachsender Kritik aus IT-Kreisen: Landesdatenschützer prüft Luca-App](htt
     * 29.04. [iX: Corona-Tracking: Luca-Überwachung lässt sich mit Fake-Datenmüll aushebeln](https://www.heise.de/news/Corona-Tracking-Luca-Ueberwachung-laesst-sich-mit-Fake-Datenmuell-aushebeln-6031572.html)
     * 29.04. [Heise: Sicherheitsforscher: Risiken der Luca-App "völlig unverhältnismäßig"](https://www.heise.de/news/Sicherheitsforscher-Risiken-der-Luca-App-voellig-unverhaeltnismaessig-6031770.html)
         * [Gemeinsame Stellungnahme zur digitalen Kontaktnachverfolgung durch IT-Security-Professor*innen](https://digikoletter.github.io)
+    * 30.04. [Zeit: "Gesundheitsämter wollen nicht überhäuft werden mit Daten" - Interview mit Ulrich Kelber](https://www.zeit.de/digital/datenschutz/2021-04/ulrich-kelber-corona-warn-app-luca-datenschutz-check-in)
+    * 30.04. [hessenschau: IT-Professor im Interview
+Darum warnen Sicherheitsexperten vor der Luca-App](https://www.hessenschau.de/gesellschaft/it-professor-im-interview-darum-warnen-sicherheitsexperten-vor-der-luca-app,kritik-an-luca-app-100.html)
+    * 30.04. [Spiegel: Oberster Datenschützer will Corona-Warn-App »die Fesseln abstreifen«](https://www.spiegel.de/netzwelt/corona-warn-app-oberster-datenschuetzer-will-app-die-fesseln-abstreifen-a-02ab0168-00a1-4b4e-b532-d2b6b563a0e8)
+    * 03.05. [Zeit: "Bei Luca zahlen wir für ein Jahr Millionen und haben danach gar nichts" Interview mit Linus Neumann/CCC](https://www.sueddeutsche.de/politik/luca-app-corona-interview-1.5282528?reduced=true)
     * 04.05. [Zeit: Was bringt die Luca-App den Gesundheitsämtern wirklich?](https://www.zeit.de/digital/datenschutz/2021-04/luca-app-gesundheitsaemter-corona-kontaktverfolgung-hackerangriff-risiko?utm_referrer=https%3A%2F%2Ft.co%2F)
     * 04.05. [heise Developer: Episode 83: Architektur-Fehlschläge in aller Öffentlichkeit (am Beispiel Luca App)](https://www.heise.de/developer/artikel/Episode-83-Architektur-Fehlschlaege-in-aller-Oeffentlichkeit-6033205.html)
+    * 04.05. [Tagesspiegel: Die Luca-App spielt für Berliner Gesundheitsämter noch keine Rolle](https://www.tagesspiegel.de/berlin/von-michael-mueller-propagiert-die-luca-app-spielt-fuer-berliner-gesundheitsaemter-noch-keine-rolle/27156680.html    )
+    * 05.05. [Bundestag: Wie es um Sicherheit und Nutzen von Clusterer­kennungs-Apps steht](https://www.bundestag.de/dokumente/textarchiv/2021/kw18-pa-digitale-agenda-cluster-838094)
+    * 05.05 [Anke Domscheit-Berg: Hopp oder Topp? Luca und Corona-Warn-App auf dem Prüfstand (Ausschussreport, 05.05.2021) __VIDEO__: 20:47](https://www.youtube.com/watch?v=b_jzjQSBUZo)
     * Lucia App
         * In Germany, the government is rolling out an app for QR code based contact tracing. The app claims to protect user data but actually it does not, at least at the time of writing. [...] The Lucia app is capable of generating fake QR codes that users can use to check in at locations while not providing any personal data whatsoever.
         * [Projektrepo Lucia](https://codeberg.org/errhammr/Lucia-App)
+    * 06.05. [Kontaktverfolgung mit Luca: Osnabrück blamiert sich](https://osnablog.tumblr.com/post/650442585482067968/kontaktverfolgung-mit-luca-osnabrück-blamiert)
+    * 06.05. [Luca-App: Mecklenburg-Vorpommern gewinnt Nachprüfungsverfahren mit Heuking](https://www.juve.de/nachrichten/verfahren/2021/05/luca-app-mecklenburg-vorpommern-gewinnt-nachpruefungsverfahren-mit-heuking)
+    * 08.05. [Bianca Kastl: ADA, Bianca und CWA](https://bkastl.de/notes/ada-bianca-und-cwa-ausschuss-digitale-agenda-fachgespraech-clustererkennung)
+    * 12.05. [Markus Feilner: „Warnen Sie Ihre Bürgerinnen und Bürger vor der Luca-App“](https://www.regensburg-digital.de/warnen-sie-ihre-buergerinnen-und-buerger-vor-der-luca-app/12052021/)
+    * 13.05. [Bianca Kastel: Die Luca App - LucaTrack und andere Gefahren (__VIDEO__: 67min)](https://media.ccc.de/v/cccs-202105-lucatrack-und-andere-gefahren)
+    * #LucaApp Performance Monitor [Welche Gesundheitsämter nutzen Luca](https://luca.denken.io)
 * Einsatz von Clubhouse in der ÖV (Reaktion InitiaveD21 aufnehmen und loben für gute Kommunikation), insb. mit Bezug auf Barrierefreiheit
     * [Clubhouse: Ärger wegen Sicherheitslücken und Datentransfer nach China](https://www.heise.de/news/Clubhouse-Aerger-wegen-Sicherheitsluecken-und-Datentransfer-nach-China-5055434.html)
     * [Clubhouse: 1,3 Millionen benutzerbezogene Daten im Netz](https://www.heise.de/news/Clubhouse-1-3-Millionen-benutzerbezogene-Daten-im-Netz-6010931.html)
