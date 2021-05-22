@@ -26,6 +26,9 @@ Lehren aus der Corona-Krise; Gutachten des Wissenschaftlichen Beirats beim Bunde
 * Interessenskonflikt Staat und IT-Sicherheit [Keine Krypto vom Staat](https://www.golem.de/news/imho-keine-krypto-vom-staat-1309-101538.html)
 * G. Dueck [Digitaler Workaround ist keine Digitalisierung](https://link.springer.com/article/10.1007/s00287-020-01326-8)
 * Ehmers Blog [Dramatische digitale Inkompetenz](https://www.ehmers-blog.de/2021/dramatische-digitale-inkompetenz/)
+* [Digitalkompetenz: Was wurde eigentlich aus der Bundeszentrale für digitale Aufklärung, Frau Bär?](https://netzpolitik.org/2021/digitalkompetenz-was-wurde-eigentlich-aus-der-bundeszentrale-fuer-digitale-aufklaerung-frau-baer/)
+* [Scheinlösung Digitalministerium](https://www.stiftung-nv.de/de/publikation/scheinloesung-digitalministerium)
+
 
 ## Fail
 
@@ -105,6 +108,8 @@ Darum warnen Sicherheitsexperten vor der Luca-App](https://www.hessenschau.de/ge
     * ePerso soll aufs Handy
 
 * Microsoft Office 365, insb. im Schuleinsatz in BaWü
+    * [Meine Daten, meine Rechte!](https://meinedaten-meinerechte.de)
+    * [Schule digital: Der Digitalpakt – ein weiteres deutsches Digitalversagen?](https://www.heise.de/hintergrund/Schule-digital-Der-Digitalpakt-ein-weiteres-deutsches-Digitalversagen-6046994.html)
     * [Schule digital: Bildungsmedien für Schulen – bundesweites Kuddelmuddel](https://www.heise.de/hintergrund/Schule-digital-Bildungsmedien-fuer-Schulen-bundesweites-Kuddelmuddel-6008139.html)
     * [Datenschützer uneinig über Microsoft Office 365](https://www.heise.de/news/Datenschuetzer-uneinig-ueber-Microsoft-Office-365-4919086.html)
     * [Microsoft Office 365: Die Gründe für das Nein der Datenschützer](https://www.heise.de/news/Microsoft-Office-365-Die-Gruende-fuer-das-Nein-der-Datenschuetzer-4919847.html)
@@ -151,11 +156,13 @@ Schülerscherze und Angriffe - Unbekannter stören den Onlineunterricht; c't 202
 * Kultureller Bereich
     * K. Marciniak: "Werkzeuge der digitalen Kunstgeschichte: Angebot ohne Nachfrage? - Eine Untersuchung von DFG-geförderten Projekten in Bezug auf die Relevanz der Nutzerperspektive"; Masterarbeit an der HU Berlin, Institut für Bibliotheks- und Informationswissenschaft
 
-* [Scheinlösung Digitalministerium](https://www.stiftung-nv.de/de/publikation/scheinloesung-digitalministerium)
 
 * [Mangelhaftes Labelling in Trainingsdatensätzen des Maschinellen Lernens](https://www.heise.de/news/KI-Studie-findet-viele-falsche-Beschreibungen-in-Machine-Learning-Datensaetzen-6000541.html)
 
 * Aus für die Deutsche Cloud für Microsoft Office der Telekom (zu hohe Kosten)
+
+* Digitaler Impfausweis
+    * [Schweizer Farce: Digitaler Impfausweis scheitert](https://www.heise.de/news/Schweizer-Farce-Digitaler-Impfausweis-scheitert-in-Skandal-6047902.html)
 
 ## Fails - rein technisch
 
@@ -168,7 +175,7 @@ Schülerscherze und Angriffe - Unbekannter stören den Onlineunterricht; c't 202
     * [Why AI is so power-hungry](https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/)
 
 ## Potentielle Fails
-* GAIA-X - ein wahrscheinlicher Fail im Rahmen der Digitalen Souveränität, da die ursprünglich kritisierten Player mittlerweile alle an Bord sind
+* GAIA-X und die Cloud- ein wahrscheinlicher Fail im Rahmen der Digitalen Souveränität, da die ursprünglich kritisierten Player mittlerweile alle an Bord sind
     * [Europa-Cloud Gaia-X tritt gegen übermächtige Konkurrenz an](https://www.heise.de/news/Europa-Cloud-Gaia-X-tritt-gegen-uebermaechtige-Konkurrenz-an-4920108.html)
     * Wolkenschloss: Europa-Cloud Gaia-X tritt gegen übermächtige Konkurrenz an; c't 2020/22 (inkl. Visualisierungen der Marktsituation)
     * [Palantir and GAIA-X](https://blog.palantir.com/palantir-and-gaia-x-85ab9845144d)
@@ -176,6 +183,8 @@ Schülerscherze und Angriffe - Unbekannter stören den Onlineunterricht; c't 202
     * https://www.heise.de/news/EU-Cloud-Gaia-X-Marktplatz-fuer-eine-neue-Datenoekonomie-6006100.html
     * [EU-Cloud: Gaia-X-Allianz begrüßt Palantir, Huawei, Alibaba & Co. als Mitglieder](https://www.heise.de/news/EU-Cloud-Gaia-X-Allianz-begruesst-Palantir-Huawei-Alibaba-Co-als-Mitglieder-6005511.html)
     * 09.05. [IT-Bündnis: Europa muss bei der Cloud mit den USA auf Augenhöhe kommen](https://www.heise.de/news/IT-Buendnis-Europa-muss-bei-der-Cloud-mit-den-USA-auf-Augenhoehe-kommen-6041875.html)
+    * [Spiegel: Microsoft will EU-Daten auch in der EU verarbeiten](https://www.spiegel.de/netzwelt/web/microsoft-will-eu-daten-auch-in-der-eu-verarbeiten-a-23f0c468-eebd-47ba-8ec1-1a6dee976ecc)
+    * [Bundesregierung will "autarke" Microsoft-Cloud testen](https://www.heise.de/news/Bundesregierung-will-autarke-Microsoft-Cloud-testen-6020580.html)
 * [Digitale Souveränität](https://www.heise.de/news/Teures-Prestigeprojekt-Europas-souveraene-Chips-6010032.html)
 
 * Digitaler Impfpass
