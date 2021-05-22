@@ -95,6 +95,8 @@ Darum warnen Sicherheitsexperten vor der Luca-App](https://www.hessenschau.de/ge
     * [Clubhouse: Ärger wegen Sicherheitslücken und Datentransfer nach China](https://www.heise.de/news/Clubhouse-Aerger-wegen-Sicherheitsluecken-und-Datentransfer-nach-China-5055434.html)
     * [Clubhouse: 1,3 Millionen benutzerbezogene Daten im Netz](https://www.heise.de/news/Clubhouse-1-3-Millionen-benutzerbezogene-Daten-im-Netz-6010931.html)
     * [A Clubhouse bug let people lurk in rooms invisibly](https://arstechnica.com/information-technology/2021/04/a-clubhouse-bug-let-people-lurk-in-rooms-invisibly/)
+    * 10.05.2021 [Clubhouse kommt für Android](https://www.heise.de/news/Clubhouse-fuer-Android-in-den-USA-als-Beta-Version-verfuegbar-6042278.html)
+        * Spaces bei Twitter gibt es jedoch mittlerweile
 
 * System-zentrierter Ansatz beim e-Perso (offenbar ohne User-Fokus entwickelt)
     * ["Das kleine große Vorbild
@@ -102,6 +104,7 @@ Darum warnen Sicherheitsexperten vor der Luca-App](https://www.hessenschau.de/ge
     * ePerso soll aufs Handy
 
 * Microsoft Office 365, insb. im Schuleinsatz in BaWü
+    * [Schule digital: Bildungsmedien für Schulen – bundesweites Kuddelmuddel](https://www.heise.de/hintergrund/Schule-digital-Bildungsmedien-fuer-Schulen-bundesweites-Kuddelmuddel-6008139.html)
     * [Datenschützer uneinig über Microsoft Office 365](https://www.heise.de/news/Datenschuetzer-uneinig-ueber-Microsoft-Office-365-4919086.html)
     * [Microsoft Office 365: Die Gründe für das Nein der Datenschützer](https://www.heise.de/news/Microsoft-Office-365-Die-Gruende-fuer-das-Nein-der-Datenschuetzer-4919847.html)
     * [Baden-Württemberg: Informatiker warnen vor Microsoft 365 an Schulen](https://www.heise.de/news/Baden-Wuerttemberg-Informatiker-warnen-vor-Microsoft-365-an-Schulen-4948663.html)
@@ -117,6 +120,11 @@ Schülerscherze und Angriffe - Unbekannter stören den Onlineunterricht; c't 202
         * [Verwendete MS365-Variante in der geplanten Bildungsplattform](https://fragdenstaat.de/anfrage/verwendete-ms365-variante-in-der-geplanten-bildungsplattform/)
         * [Kostenvergleich MS365 als Bestandteil der geplanten Bildungsplattform](https://fragdenstaat.de/anfrage/kostenvergleich-ms365-als-bestandteil-der-geplanten-bildungsplattform/)
         * [Stellungnahme Verfügbarkeit Moodle / Liste Schulen](https://fragdenstaat.de/anfrage/stellungnahme-verfugbarkeit-moodle-liste-schulen/)
+        * 26.04. [Datenschutzbeauftragter warnt vor „Microsoft Office 365“-Nutzung: Schulen müssen digital umplanen](https://bnn.de/nachrichten/baden-wuerttemberg/warnung-datenschutzbeauftragter-microsoft-office-365-schulen-baden-wuerttemberg)
+        * 01.05. [Baden-Württemberg: Tausende Schulen müssen wieder aus Hochschulnetz ausziehen](https://www.heise.de/news/Baden-Wuerttemberg-Tausende-Schulen-muessen-wieder-aus-Hochschulnetz-ausziehen-6033568.html)
+        * 04.05. [Streit um BelWü-Dienst für Schulen: "so schlecht isch dehs Moodle feih ed"](https://www.heise.de/news/Streit-um-BelWue-Dienst-fuer-Schulen-so-schlecht-isch-dehs-Moodle-feih-ed-6035383.html)
+        * 07.05. [Schule digital: Die Lösung BelWü – hinter den Kulissen des Fernunterrichts](https://www.heise.de/hintergrund/Schule-digital-Die-Loesung-BelWue-hinter-den-Kulissen-des-Fernunterrichts-6027513.html)
+        * 13.05. [Schul-IT in Baden-Württemberg: Das große Chaos](https://netzpolitik.org/2021/schul-it-in-baden-wuerttemberg-das-grosse-chaos/)
 
 * Kammergericht Berlin, Versäumnisse bei der IT-Sicherheit
     * [Emotet am Berliner Kammergericht](https://www.berlin.de/sen/justva/presse/pressemitteilungen/2020/pressemitteilung.887323.php)
