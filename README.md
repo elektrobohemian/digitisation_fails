@@ -25,6 +25,7 @@ Die Liste umfasst vor allem, aber nicht nur, Online-Quellen. Die meisten Quellen
 Lehren aus der Corona-Krise; Gutachten des Wissenschaftlichen Beirats beim Bundesministerium für Wirtschaft und Energie (BMWi)](https://www.bmwi.de/Redaktion/DE/Publikationen/Ministerium/Veroeffentlichung-Wissenschaftlicher-Beirat/gutachten-digitalisierung-in-deutschland.pdf?__blob=publicationFile&v=4)
 * Interessenskonflikt Staat und IT-Sicherheit [Keine Krypto vom Staat](https://www.golem.de/news/imho-keine-krypto-vom-staat-1309-101538.html)
 * G. Dueck [Digitaler Workaround ist keine Digitalisierung](https://link.springer.com/article/10.1007/s00287-020-01326-8)
+* Ehmers Blog [Dramatische digitale Inkompetenz](https://www.ehmers-blog.de/2021/dramatische-digitale-inkompetenz/)
 
 ## Fail
 
@@ -174,6 +175,7 @@ Schülerscherze und Angriffe - Unbekannter stören den Onlineunterricht; c't 202
     * https://www.heise.de/news/EU-Cloud-Gaia-X-Allianz-begruesst-Palantir-Huawei-Alibaba-Co-als-Mitglieder-6005511.html
     * https://www.heise.de/news/EU-Cloud-Gaia-X-Marktplatz-fuer-eine-neue-Datenoekonomie-6006100.html
     * [EU-Cloud: Gaia-X-Allianz begrüßt Palantir, Huawei, Alibaba & Co. als Mitglieder](https://www.heise.de/news/EU-Cloud-Gaia-X-Allianz-begruesst-Palantir-Huawei-Alibaba-Co-als-Mitglieder-6005511.html)
+    * 09.05. [IT-Bündnis: Europa muss bei der Cloud mit den USA auf Augenhöhe kommen](https://www.heise.de/news/IT-Buendnis-Europa-muss-bei-der-Cloud-mit-den-USA-auf-Augenhoehe-kommen-6041875.html)
 * [Digitale Souveränität](https://www.heise.de/news/Teures-Prestigeprojekt-Europas-souveraene-Chips-6010032.html)
 
 * Digitaler Impfpass
