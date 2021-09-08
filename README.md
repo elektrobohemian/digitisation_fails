@@ -28,6 +28,7 @@ Lehren aus der Corona-Krise; Gutachten des Wissenschaftlichen Beirats beim Bunde
 * Ehmers Blog [Dramatische digitale Inkompetenz](https://www.ehmers-blog.de/2021/dramatische-digitale-inkompetenz/)
 * [Digitalkompetenz: Was wurde eigentlich aus der Bundeszentrale für digitale Aufklärung, Frau Bär?](https://netzpolitik.org/2021/digitalkompetenz-was-wurde-eigentlich-aus-der-bundeszentrale-fuer-digitale-aufklaerung-frau-baer/)
 * [Scheinlösung Digitalministerium](https://www.stiftung-nv.de/de/publikation/scheinloesung-digitalministerium)
+* [Awful AI:](https://github.com/daviddao/awful-ai) "Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness to its misuses in society"
 
 
 ## Fail
@@ -36,6 +37,7 @@ Lehren aus der Corona-Krise; Gutachten des Wissenschaftlichen Beirats beim Bunde
     * sichere Lösung ohne Ende-zu-Ende-Verschlüsselung? nur optional mit PGP
     * in 2021 steigt z.B. die Telekom aus
     * [TELEKOM-CHEF: De-Mail ist ein "toter Gaul"](https://www.golem.de/news/telekom-chef-de-mail-ist-ein-toter-gaul-2103-154574.html)
+    * [Spiegel: Telekom schaltet De-Mail ab](https://www.spiegel.de/netzwelt/netzpolitik/telekom-schaltet-de-mail-ab-a-1cf7a036-c4ad-4d3c-b8d8-2f3d1afa7944)
 * [beA: Das besondere elektronische Anwaltspostfach](https://www.brak.de/fuer-anwaelte/bea-das-besondere-elektronische-anwaltspostfach/)
     * Fail, weil das BGH mit seiner Einschätzung kaum dem Stand der Technik folgt, davor gab es diverse technische Schwächen
     * [Besonderes elektronisches Anwaltspostfach: Schadenersatzforderung und Vertröstungen](https://www.heise.de/newsticker/meldung/Besonderes-elektronisches-Anwaltspostfach-Schadenersatzforderung-und-Vertroestungen-3976424.html)
