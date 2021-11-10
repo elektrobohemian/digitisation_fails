@@ -269,6 +269,7 @@ Vom Experiment einer Gesellschaft ohne Vertrauen"](./sources/rehak_blockchain.pd
     * [Spiegel: Ungarische Regierungsgegner und Journalisten wurden offenbar ausgespäht](https://www.spiegel.de/ausland/cyberwaffe-pegasus-journalisten-in-ungarn-sollen-ausgespaeht-worden-sein-a-2b552c15-405c-4f6b-977a-d9101ef1514b)
     * [Zeit: Die Superwaffe und die Deutschen](https://www.zeit.de/politik/ausland/2021-07/ueberwachungsaffaere-spionage-software-pegasus-einsatz-deutschland-bundeskriminalamt-handydaten-rechtsstaat)
     * [heise: Staatstrojaner: Verfassungsgericht auf Holzweg oder in dubio pro IT-Sicherheit?](https://www.heise.de/news/Staatstrojaner-Verfassungsgericht-auf-Holzweg-oder-in-dubio-pro-IT-Sicherheit-6152157.html)
+    * [heise: Berliner Handybesitzer erhalten Informationen zu Funkzellenabfrage](https://www.heise.de/news/Berliner-Handybesitzer-erhalten-Informationen-zu-Funkzellenabfrage-6192058.html)
 
     * iPhone Scanning
         * [heise: Apple plant iPhone-Scanning auf Kinderpornos – Sicherheitsforscher alarmiert](https://www.heise.de/news/Apple-plant-iPhone-Scanning-auf-Kinderpornos-Sicherheitsforscher-alarmiert-6156542.html)
@@ -317,6 +318,16 @@ Vom Experiment einer Gesellschaft ohne Vertrauen"](./sources/rehak_blockchain.pd
 * Digitale Souveränität 
     * [Der ÖFIT-Selbsttest zur digitalen Souveränität von Organisationen](https://www.oeffentliche-it.de/selbsttest-digitale-souveraenitaet)
     * [Digitale Souveränität - Teures Prestigeprojekt](https://www.heise.de/news/Teures-Prestigeprojekt-Europas-souveraene-Chips-6010032.html)
+    
+* Einsatz von Open Source Software in der öffentlichen Verwaltung
+    * [Open Source im öffentlichen Sektor](https://www.linux-magazin.de/ausgaben/2021/08/public-foss/)
+    * [heise: Good Governance: OSPO Alliance kündigt Handbuch für Open-Source-Projekte an](https://www.heise.de/news/Good-Governance-OSPO-Alliance-kuendigt-Handbuch-fuer-Open-Source-Projekte-an-6263364.html)
+    * [netzpolitik.org: Nachhaltigkeitsstudie -Software ist für alle da](https://netzpolitik.org/2021/nachhaltigkeitsstudie-software-ist-fuer-alle-da/)
+    * [heise: EU-Studie: Europa pennt auch bei Open Source](https://www.heise.de/news/EU-Studie-Europa-pennt-auch-bei-Open-Source-6194883.html)
+    * [European Commission: Study about the impact of open source software and hardware on technological independence, competitiveness and innovation in the EU economy](https://digital-strategy.ec.europa.eu/en/library/study-about-impact-open-source-software-and-hardware-technological-independence-competitiveness-and)
+    * [PODCAST: Open Source als Baustein europäischer Innovationspolitik](https://radiocitylab.podigee.io/5-open-source-als-baustein-europaischer-innovationspolitik)
+
+
 
 * Open Data und Datenstrategie
     * [netzpolitik.org: Die Richtung stimmt, aber der Weg ist noch weit](https://netzpolitik.org/2021/datenstrategie-der-bundesregierung-die-richtung-stimmt-aber-der-weg-ist-noch-weit/)
@@ -326,6 +337,7 @@ Vom Experiment einer Gesellschaft ohne Vertrauen"](./sources/rehak_blockchain.pd
     * [heise: Nachhilfe für den Bund: Freiwillige dokumentieren Programmierschnittstellen](https://www.heise.de/news/Nachhilfe-fuer-den-Bund-Freiwillige-dokumentieren-Programmierschnittstellen-6158153.html)
     * [netzpolitik.org: Aktivist:innen handeln, der Staat schaut zu](https://netzpolitik.org/2021/open-data-aktivistinnen-handeln-der-staat-schaut-zu/)
     * [wired: These Parents Built a School App. Then the City Called the Cops](https://www.wired.com/story/sweden-stockholm-school-app-open-source/)
+
 
     * Plattformen
         * [Berlin Open Data](https://daten.berlin.de)
