@@ -186,6 +186,8 @@ Schülerscherze und Angriffe - Unbekannter stören den Onlineunterricht; c't 202
         * 04.05. [Streit um BelWü-Dienst für Schulen: "so schlecht isch dehs Moodle feih ed"](https://www.heise.de/news/Streit-um-BelWue-Dienst-fuer-Schulen-so-schlecht-isch-dehs-Moodle-feih-ed-6035383.html)
         * 07.05. [Schule digital: Die Lösung BelWü – hinter den Kulissen des Fernunterrichts](https://www.heise.de/hintergrund/Schule-digital-Die-Loesung-BelWue-hinter-den-Kulissen-des-Fernunterrichts-6027513.html)
         * 13.05. [Schul-IT in Baden-Württemberg: Das große Chaos](https://netzpolitik.org/2021/schul-it-in-baden-wuerttemberg-das-grosse-chaos/)
+    * [heise: Datenschutz: Weitere Gnadenfrist für Microsoft Teams an hessischen Schulen](https://www.heise.de/news/Datenschutz-Weitere-Gnadenfrist-fuer-Microsoft-Teams-an-hessischen-Schulen-6135290.html)
+    * [heise: HPI-Schul-Cloud: Projekt endet in Übernahme durch drei Bundesländer](https://www.heise.de/news/HPI-Schul-Cloud-Projekt-endet-in-Uebernahme-durch-drei-Bundeslaender-6129533.html)
 
 * Kammergericht Berlin, Versäumnisse bei der IT-Sicherheit
     * [Emotet am Berliner Kammergericht](https://www.berlin.de/sen/justva/presse/pressemitteilungen/2020/pressemitteilung.887323.php)
@@ -218,7 +220,27 @@ Schülerscherze und Angriffe - Unbekannter stören den Onlineunterricht; c't 202
 
 * Digitaler Impfausweis
     * [Schweizer Farce: Digitaler Impfausweis scheitert](https://www.heise.de/news/Schweizer-Farce-Digitaler-Impfausweis-scheitert-in-Skandal-6047902.html)
+    * [Digitaler Corona-Impfpass: IBM, Ubirch und fünf Blockchains](https://www.heise.de/news/Digitaler-Corona-Impfpass-IBM-Ubirch-und-fuenf-Blockchains-5076161.html)
 
+* Blockchain
+    * [R. Rehak: "Die Blockchain politisch gelesen
+Vom Experiment einer Gesellschaft ohne Vertrauen"](./sources/rehak_blockchain.pdf)
+    * [Blockchain + SSI = ID?](https://medium.com/@ckahlo/blockchain-ssi-id-d7e51d98d050)
+    * [heise: Blockchain-Strategie der Bundesregierung liefert bislang wenig Ergebnisse](https://www.heise.de/news/Blockchain-Strategie-der-Bundesregierung-lieferte-bislang-wenig-Ergebnisse-6114983.html)
+
+* IDwallet
+    * [netzpolitik.org: Kopfsprung mit Anlauf ins leere Becken](https://netzpolitik.org/2021/id-wallet-kopfsprung-mit-anlauf-ins-leere-becken/)
+    * [t3n: Digitaler Führerschein: ID Wallet mit enormen Startschwierigkeiten](https://t3n.de/news/digitaler-fuehrerschein-id-schwierigkeiten-1410191/)
+    * [heise: Digitaler Führerschein hatte keinen Schutz vor Identitätsdiebstahl​](https://www.heise.de/news/Digitaler-Fuehrerschein-hatte-keinen-Schutz-vor-Identitaetsdiebstahl-6204574.html)
+    * [heise: Nach Kritik von Sicherheitsexperten: Digitaler Führerschein vorerst gestoppt](https://www.heise.de/news/Nach-Kritik-von-Sicherheitsexperten-Digitaler-Fuehrerschein-vorerst-gestoppt-6203690.html)
+    * [Express: Nächste peinliche Panne der Regierung Scheuer stocksauer, ihm geht das „auf den Zeiger“](https://www.express.de/nachhaltigkeit/mobilitaet-und-energie/id-wallet-naechste-peinliche-panne-scheuer-stocksauer-75436?cb=1636556161619)
+    * [heise: Digitaler Führerschein: ID Wallet-App in einigen Wochen wieder verfügbar](https://www.heise.de/news/Digitaler-Fuehrerschein-ID-Wallet-App-in-einigen-Wochen-wieder-verfuegbar-6206464.html)
+    * ID-Wallet: Unterlagen zur Prüfung bzw. Freigabe der Apps [Frag den Staat](https://fragdenstaat.de/anfrage/id-wallet-unterlagen-zur-prufung-bzw-freigabe-der-apps/)
+        * [Anschreiben](./sources/idwallet1.pdf)
+        * [Zusammenfassung Pentest](./sources/idwallet2.pdf)
+        * [Bewertung Hotel Check-In Pilot](./sources/idwallet3.pdf)
+
+* Ransomware
 ## Fails - rein technisch
 
 * [The Atlas of Digital Damages](https://www.flickr.com/groups/2121762@N23)
@@ -230,6 +252,8 @@ Schülerscherze und Angriffe - Unbekannter stören den Onlineunterricht; c't 202
     * [Why AI is so power-hungry](https://arstechnica.com/science/2020/12/why-ai-is-so-power-hungry/)
 
 ## Potentielle Fails
+* BSI IT-Sicherheitskennzeichen
+    * [IT-Sicherheitskennzeichen: BSI muss keine "Tiefenprüfung" durchführen](https://www.heise.de/news/IT-Sicherheitskennzeichen-BSI-muss-keine-Tiefenpruefung-durchfuehren-6151046.html)
 * GAIA-X und die Cloud- ein wahrscheinlicher Fail im Rahmen der Digitalen Souveränität, da die ursprünglich kritisierten Player mittlerweile alle an Bord sind
     * [Europa-Cloud Gaia-X tritt gegen übermächtige Konkurrenz an](https://www.heise.de/news/Europa-Cloud-Gaia-X-tritt-gegen-uebermaechtige-Konkurrenz-an-4920108.html)
     * Wolkenschloss: Europa-Cloud Gaia-X tritt gegen übermächtige Konkurrenz an; c't 2020/22 (inkl. Visualisierungen der Marktsituation)
@@ -243,12 +267,9 @@ Schülerscherze und Angriffe - Unbekannter stören den Onlineunterricht; c't 202
 * Digitale Souveränität 
     * [Der ÖFIT-Selbsttest zur digitalen Souveränität von Organisationen](https://www.oeffentliche-it.de/selbsttest-digitale-souveraenitaet)
     * [Digitale Souveränität - Teures Prestigeprojekt](https://www.heise.de/news/Teures-Prestigeprojekt-Europas-souveraene-Chips-6010032.html)
-* Blockchain
-    * [R. Rehak: "Die Blockchain politisch gelesen
-Vom Experiment einer Gesellschaft ohne Vertrauen"](./sources/rehak_blockchain.pdf)
 
-* Digitaler Impfpass
-    * [Digitaler Corona-Impfpass: IBM, Ubirch und fünf Blockchains](https://www.heise.de/news/Digitaler-Corona-Impfpass-IBM-Ubirch-und-fuenf-Blockchains-5076161.html)
+
+    
 ## Fails in Teilen einer Organisation
 
 [Stiftung Preußischer Kulturbesitz](./sources/spk_wissenschaftsrat_8520-20.pdf)
