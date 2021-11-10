@@ -263,6 +263,28 @@ Vom Experiment einer Gesellschaft ohne Vertrauen"](./sources/rehak_blockchain.pd
     * [taz: Lilith Wittmann über Wahlkampf-Apps: „Manche spielen Sudoku. Ich hacke“](https://taz.de/Lilith-Wittmann-ueber-Wahlkampf-Apps/!5802119/)
     * [Spiegel: Staatsanwaltschaft bestätigt Schwachstelle in Wahlkampf-App der CDU](https://www.spiegel.de/netzwelt/netzpolitik/staatsanwaltschaft-bestaetigt-schwachstelle-in-wahlkampf-app-der-cdu-a-b66c2a32-4c4c-4337-83b3-795d749ee4b7)
     * [heise: Verfahren gegen Lilith Wittmann eingestellt – weil CDU connect ungeschützt war](https://www.heise.de/news/Verfahren-gegen-Lilith-Wittmann-eingestellt-weil-CDU-connect-ungeschuetzt-war-6194222.html)
+
+* Überwachungslösungen
+    * [SZ: Das Pegasus-Projekt](https://projekte.sueddeutsche.de/artikel/politik/pegasus-project-die-uebersicht-e642044/)
+    * [Spiegel: Ungarische Regierungsgegner und Journalisten wurden offenbar ausgespäht](https://www.spiegel.de/ausland/cyberwaffe-pegasus-journalisten-in-ungarn-sollen-ausgespaeht-worden-sein-a-2b552c15-405c-4f6b-977a-d9101ef1514b)
+    * [Zeit: Die Superwaffe und die Deutschen](https://www.zeit.de/politik/ausland/2021-07/ueberwachungsaffaere-spionage-software-pegasus-einsatz-deutschland-bundeskriminalamt-handydaten-rechtsstaat)
+    * [heise: Staatstrojaner: Verfassungsgericht auf Holzweg oder in dubio pro IT-Sicherheit?](https://www.heise.de/news/Staatstrojaner-Verfassungsgericht-auf-Holzweg-oder-in-dubio-pro-IT-Sicherheit-6152157.html)
+
+    * iPhone Scanning
+        * [heise: Apple plant iPhone-Scanning auf Kinderpornos – Sicherheitsforscher alarmiert](https://www.heise.de/news/Apple-plant-iPhone-Scanning-auf-Kinderpornos-Sicherheitsforscher-alarmiert-6156542.html)
+        * [heise: Totalüberwachung durch die Hintertür – Apples fataler Sündenfall](https://www.heise.de/meinung/Totalueberwachung-durch-die-Hintertuer-Apples-fataler-Suendenfall-6157251.html)
+        * [heise: Kommentar: Apple setzt die falschen Prioritäten](https://www.heise.de/meinung/Kommentar-Apple-setzt-die-falschen-Prioritaeten-6158007.html)
+        * [Apple explains how iPhones will scan photos for child-sexual-abuse images](https://arstechnica.com/tech-policy/2021/08/apple-explains-how-iphones-will-scan-photos-for-child-sexual-abuse-images/)
+        * [heise: iPhone-Scanning auf Kinderpornos: Apple war "Beunruhigung" bewusst](https://www.heise.de/news/iPhone-Scanning-auf-Kinderpornos-Apple-war-Beunruhigung-bewusst-6157981.html)
+        * [netzpolitik.org: Apple fällt um](https://netzpolitik.org/2021/privatsphaere-apple-faellt-um/)
+        * [heise: Kommentar: Apples CSAM-Scans – Ein Tabubruch, der in die Totalüberwachung führt](https://www.heise.de/meinung/Kommentar-Apples-CSAM-Scans-Ein-Tabubruch-der-in-die-Totalueberwachung-fuehrt-6166219.html)
+        * [heise: Nach Kritik: Apple präzisiert Maßnahmen gegen Kinderpornografie](https://www.heise.de/news/Nach-Kritik-Apple-praezisiert-Massnahmen-gegen-Kinderpornografie-6165442.html)
+        * [heise: "Große Gefahr": CSAM-Scanning auf iPhones stößt auf Kritik aus dem Bundestag](https://www.heise.de/news/Grosse-Gefahr-CSAM-Scanning-auf-iPhones-stoesst-auf-Kritik-aus-dem-Bundestag-6167950.html)
+        * [Spiegel: Bürgerrechtler zu Apple: »Durchsucht unsere Telefone nicht!«](https://www.spiegel.de/netzwelt/gadgets/buergerrechtler-zu-apple-durchsucht-unsere-telefone-nicht-a-2dbd317f-acff-42b6-95c0-fea48c15009d)
+        * [Apple photo-scanning plan faces global backlash from 90 rights groups](https://arstechnica.com/tech-policy/2021/08/apple-photo-scanning-plan-faces-global-backlash-from-90-rights-groups/)
+        * [heise: Umstrittene Kinderporno-Scanner in iOS 15: Apple schiebt Einführung auf](https://www.heise.de/news/Umstrittene-Kinderschutzfunktionen-in-iOS-15-Apple-schiebt-Einfuehrung-auf-6181788.html)
+        * [heise: Nacktfoto-Filter für iMessage: Apple bereitet Einführung vor](https://www.heise.de/news/Nacktfotofilter-fuer-iMessage-Apple-bereitet-Einfuehrung-vor-6263729.html)
+    * [heise: Siri hört ungewollt mit: Apple wird Datenschutzklage nicht los](https://www.heise.de/news/Siri-hoert-ungewollt-mit-Apple-wird-Datenschutzklage-nicht-los-6181652.html)
     
 ## Fails - rein technisch
 
