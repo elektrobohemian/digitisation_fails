@@ -256,6 +256,7 @@ Vom Experiment einer Gesellschaft ohne Vertrauen"](./sources/rehak_blockchain.pd
     * [Golem: IT-Angriff legt Schwerin und Landkreis lahm](https://www.golem.de/news/schadsoftware-it-angriff-legt-schwerin-und-landkreis-lahm-2110-160350.html)
     * [deutschlandfunk: Experten warnen vor dem IT-Blackout](https://www.deutschlandfunk.de/sicherheitsmesse-itsa-experten-warnen-vor-dem-it-blackout.684.de.html?dram:article_id=504362)
     * [ntv: Deutschland hält Hackern die Türen auf](https://www.n-tv.de/politik/Deutschland-haelt-Hackern-die-Tueren-auf-article22888202.html)
+    * [Bundestag-Hack 2016: Die Ursachen, der Ablauf und die Folgen](https://www.linux-magazin.de/ausgaben/2016/04/bundestags-it/)
 
 * Wahlkampf 2021 (insb. CDU-Wahlkampf-App)
     * [L. Wittmann: Wenn die CDU ihren Wahlkampf digitalisiert…](https://lilithwittmann.medium.com/wenn-die-cdu-ihren-wahlkampf-digitalisiert-a3e9a0398b4d)
@@ -284,8 +285,13 @@ Vom Experiment einer Gesellschaft ohne Vertrauen"](./sources/rehak_blockchain.pd
     * https://www.heise.de/news/EU-Cloud-Gaia-X-Marktplatz-fuer-eine-neue-Datenoekonomie-6006100.html
     * [EU-Cloud: Gaia-X-Allianz begrüßt Palantir, Huawei, Alibaba & Co. als Mitglieder](https://www.heise.de/news/EU-Cloud-Gaia-X-Allianz-begruesst-Palantir-Huawei-Alibaba-Co-als-Mitglieder-6005511.html)
     * 09.05. [IT-Bündnis: Europa muss bei der Cloud mit den USA auf Augenhöhe kommen](https://www.heise.de/news/IT-Buendnis-Europa-muss-bei-der-Cloud-mit-den-USA-auf-Augenhoehe-kommen-6041875.html)
+    * [heise: Gaia-X: "Wir brauchen niemand aus dem Silicon Valley oder China"](https://www.heise.de/news/Gaia-X-Wir-brauchen-niemand-aus-dem-Silicon-Valley-oder-China-5045417.html)
+    * [heise: Europa-Cloud Gaia-X: 16 Leuchtturmprojekte für datengetriebene Geschäftsmodelle](https://www.heise.de/news/Gaia-X-16-Leuchtturmprojekte-fuer-datengetriebene-Geschaeftsmodelle-6124261.html)
+    * [OSB Alliance entwickelt Sovereign Cloud Stack (SCS) für das GAIA-X Projekt](https://osb-alliance.de/sovereign-cloud-stack-scs)
     * [Spiegel: Microsoft will EU-Daten auch in der EU verarbeiten](https://www.spiegel.de/netzwelt/web/microsoft-will-eu-daten-auch-in-der-eu-verarbeiten-a-23f0c468-eebd-47ba-8ec1-1a6dee976ecc)
     * [Bundesregierung will "autarke" Microsoft-Cloud testen](https://www.heise.de/news/Bundesregierung-will-autarke-Microsoft-Cloud-testen-6020580.html)
+        * [#heiseshow: Digitale Souveränität in Deutschen Behörden trotz Microsoft?](https://www.heise.de/news/heiseshow-Digitale-Souveraenitaet-in-Deutschen-Behoerden-trotz-Microsoft-6129459.html)
+    * [Handelsblatt: Wie Gaia-X europäische Daten vor dem Zugriff von US-Behörden schützen will](https://app.handelsblatt.com/politik/deutschland/cloud-projekt-wie-gaia-x-europaeische-daten-vor-dem-zugriff-von-us-behoerden-schuetzen-will/27126688.html?share=twitter&ticket=ST-3217932-fHGxZiRpf4AfonyeEGUf-cas01.example.org)
 * Digitale Souveränität 
     * [Der ÖFIT-Selbsttest zur digitalen Souveränität von Organisationen](https://www.oeffentliche-it.de/selbsttest-digitale-souveraenitaet)
     * [Digitale Souveränität - Teures Prestigeprojekt](https://www.heise.de/news/Teures-Prestigeprojekt-Europas-souveraene-Chips-6010032.html)
