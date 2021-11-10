@@ -227,6 +227,7 @@ Schülerscherze und Angriffe - Unbekannter stören den Onlineunterricht; c't 202
 Vom Experiment einer Gesellschaft ohne Vertrauen"](./sources/rehak_blockchain.pdf)
     * [Blockchain + SSI = ID?](https://medium.com/@ckahlo/blockchain-ssi-id-d7e51d98d050)
     * [heise: Blockchain-Strategie der Bundesregierung liefert bislang wenig Ergebnisse](https://www.heise.de/news/Blockchain-Strategie-der-Bundesregierung-lieferte-bislang-wenig-Ergebnisse-6114983.html)
+    * [Mythos Blockchain - Zwischen Hoffnung und Realität](https://www.oeffentliche-it.de/publikationen?doc=221689&title=Mythos+Blockchain+-+Zwischen+Hoffnung+und+Realität)
 
 * IDwallet
     * [netzpolitik.org: Kopfsprung mit Anlauf ins leere Becken](https://netzpolitik.org/2021/id-wallet-kopfsprung-mit-anlauf-ins-leere-becken/)
@@ -240,7 +241,8 @@ Vom Experiment einer Gesellschaft ohne Vertrauen"](./sources/rehak_blockchain.pd
         * [Zusammenfassung Pentest](./sources/idwallet2.pdf)
         * [Bewertung Hotel Check-In Pilot](./sources/idwallet3.pdf)
 
-* Ransomware
+* Ransomware etc.
+    * 
 ## Fails - rein technisch
 
 * [The Atlas of Digital Damages](https://www.flickr.com/groups/2121762@N23)
@@ -268,6 +270,18 @@ Vom Experiment einer Gesellschaft ohne Vertrauen"](./sources/rehak_blockchain.pd
     * [Der ÖFIT-Selbsttest zur digitalen Souveränität von Organisationen](https://www.oeffentliche-it.de/selbsttest-digitale-souveraenitaet)
     * [Digitale Souveränität - Teures Prestigeprojekt](https://www.heise.de/news/Teures-Prestigeprojekt-Europas-souveraene-Chips-6010032.html)
 
+* Open Data und Datenstrategie
+    * [netzpolitik.org: Die Richtung stimmt, aber der Weg ist noch weit](https://netzpolitik.org/2021/datenstrategie-der-bundesregierung-die-richtung-stimmt-aber-der-weg-ist-noch-weit/)
+    * [heise: Open-Data-Strategie: Bund will "innovative Datennutzung" unterstützen​](https://www.heise.de/news/Open-Data-Strategie-Bund-will-innovative-Datennutzung-unterstuetzen-6131188.html)
+    * [heise: Data Governance Act: EU-Parlament befürwortet freiwilligen Datenaltruismus](https://www.heise.de/news/Data-Governance-Act-EU-Parlament-befuerwortet-freiwilligen-Datenaltruismus-6141129.html)
+    * [heise: Geoinformationen: OpenStreetMap-Daten im alltäglichen Einsatz](https://www.heise.de/hintergrund/Geoinformationen-OpenStreetMap-Daten-im-alltaeglichen-Einsatz-6142666.html)
+    * [heise: Nachhilfe für den Bund: Freiwillige dokumentieren Programmierschnittstellen](https://www.heise.de/news/Nachhilfe-fuer-den-Bund-Freiwillige-dokumentieren-Programmierschnittstellen-6158153.html)
+    * [netzpolitik.org: Aktivist:innen handeln, der Staat schaut zu](https://netzpolitik.org/2021/open-data-aktivistinnen-handeln-der-staat-schaut-zu/)
+
+    * Plattformen
+        * [Berlin Open Data](https://daten.berlin.de)
+        * [Verwaltungsdaten-Informationsplattform](https://www.verwaltungsdaten-informationsplattform.de/DE/Home/home_node.html)
+        * [bund.dev](https://bund.dev)
 
     
 ## Fails in Teilen einer Organisation
