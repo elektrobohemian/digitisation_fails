@@ -42,8 +42,12 @@ Lehren aus der Corona-Krise; Gutachten des Wissenschaftlichen Beirats beim Bunde
     * Fail, weil das BGH mit seiner Einschätzung kaum dem Stand der Technik folgt, davor gab es diverse technische Schwächen
     * [Besonderes elektronisches Anwaltspostfach: Schadenersatzforderung und Vertröstungen](https://www.heise.de/newsticker/meldung/Besonderes-elektronisches-Anwaltspostfach-Schadenersatzforderung-und-Vertroestungen-3976424.html)
     * [BGH: Kein Anspruch auf Ende-zu-Ende-Verschlüsselung beim Anwaltspostfach beA](https://www.heise.de/news/BGH-Kein-Anspruch-auf-Ende-zu-Ende-Verschluesselung-beim-Anwaltspostfach-beA-5995046.html)
-* Luca-App
+* Contact Tracing (insb. Luca-App)
     * Fail in so vielen Dimensionen, hinzu kommt Marketing und Influencer-Marketing durch Anteilseigner (Smudo/Fantastische Vier), die anfangs verdeckt blieben
+    * Paradebeispiel für Solutionismus, eine App soll alle Probleme lösen
+    * App besteht jedoch aus technischen Schwachstellen, Use Cas für Gesundheitsämter unklar und sogar technische Bedrohung (u.a. CSV-Injection)
+    * Zielkonflikt mit Corona Warn App (CWA), die der Bund entwickeln ließ, die dann aber lange nicht weitergepflegt wurde
+    * außerdem sahen diverse Corona-Verordnungen die quasi ausschließliche Nutzung von Luca vor, wenn man eine digitale Erfassung machen wollte
     * [Spiegel: Darf ich ohne Luca-App jetzt nicht mehr zu Ikea?](https://www.spiegel.de/netzwelt/apps/coronakrise-darf-ich-ohne-luca-app-jetzt-nicht-mehr-zu-ikea-a-cab0558a-5c7d-4f84-80d2-451eebe95836)
     * [#22 Luca vs. Datenschutz (Podcast)](https://www.ndr.de/nachrichten/info/22-Vertrauen-ist-keine-gute-Technologie,audio868810.html)
     * https://www.tagesspiegel.de/berlin/betraechtliche-risiken-bei-corona-software-berlins-datenschutzbeauftragte-warnt-vor-luca-app/27079224.html
@@ -53,35 +57,54 @@ Lehren aus der Corona-Krise; Gutachten des Wissenschaftlichen Beirats beim Bunde
         * https://gitlab.com/lucaapp
     * Meanwhile at Corona Warn-App - komplette Offenlegung:
         * https://github.com/corona-warn-app
+    
+    Chronologie 2021
+
+    [Generelle Timeline](https://timeline.luca.fail)
+
+    * 25.03. [LUCA APP UND TICKET I/O GEHEN KOOPERATION EIN](https://landing.ticket.io/news/ticket-i-o-und-luca-gehen-kooperation-ein)
     * 31.03 Luca verletzt OSS-Lizenzen
         * [Problem 1](https://twitter.com/ralf/status/1377127671017054212?s=20)
         * [Problem 2](https://twitter.com/ralf/status/1377159413358682118?s=20)
+    * 08.04. [Zeit: Luca-App trotz Kritik auf dem Vormarsch](https://www.zeit.de/news/2021-04/08/luca-app-trotz-kritik-auf-dem-vormarsch)
+    * 08.04. [taz: Luca-Nepp](https://taz.de/Versagen-der-gehypten-Corona-App/!5759224/)
+    * 08.04. [rbb24 Luca-App steht in Berlin offenbar kurz vor dem Start](https://www.rbb24.de/content/rbb/r24/politik/thema/corona/beitraege/2021/04/luca-app-berlin-gesundheitsamt-datenschutz.html)
+    * 12.04. [Weimar: Das Weimarer Modell Testen – Lockern - Impfen;  Evaluation der Testphase 1](./sources/weimar_eval.pdf)
     * 13.04. [CCC: Luca-App: CCC fordert Bundesnotbremse](https://www.ccc.de/de/updates/2021/luca-app-ccc-fordert-bundesnotbremse)
     * 13.04. [SZ: "Luca" und das Problem mit den Schlüsselanhängern](https://www.sueddeutsche.de/wirtschaft/kontaktnachverfolgung-corona-app-tracking-datenschutz-1.5263996?reduced=true)
     * 14.04. [deutschlandfunk: Chaos Computer Club: „Keine Steuermittel mehr für Luca-App einsetzen“](https://www.deutschlandfunk.de/kontaktnachverfolgung-chaos-computer-club-keine.2849.de.html?drn:news_id=1248352)
     * 14.04. [Spiegel: Chaos Computer Club fordert Stopp von Luca](https://www.spiegel.de/netzwelt/apps/luca-chaos-computer-club-fordert-stopp-der-app-a-072c7828-604c-48ff-add0-09040cef481f)
+    * 14.04. [SZ: Ministerium empfiehlt Luca-App trotz Kritik](https://www.sueddeutsche.de/gesundheit/gesundheit-stuttgart-ministerium-empfiehlt-luca-app-trotz-kritik-dpa.urn-newsml-dpa-com-20090101-210414-99-195710)
     * 15.04. [golem.de: Entwickler der Luca-App bezeichnen CCC-Kritik als überzogen](https://www.golem.de/news/stellungnahme-entwickler-der-luca-app-bezeichnen-ccc-kritik-als-ueberzogen-2104-155763.html)
+    * 15.04. [Luca-App versus Open Source](https://www.heise.de/developer/artikel/Luca-App-versus-Open-Source-6016089.html)
     * 16.04. [heise: 
 Nach wachsender Kritik aus IT-Kreisen: Landesdatenschützer prüft Luca-App](https://www.heise.de/news/Nach-wachsender-Kritik-aus-IT-Kreisen-Landesdatenschuetzer-prueft-Luca-App-6017564.html)
-    * 08.04. [rbb24 Luca-App steht in Berlin offenbar kurz vor dem Start](https://www.rbb24.de/content/rbb/r24/politik/thema/corona/beitraege/2021/04/luca-app-berlin-gesundheitsamt-datenschutz.html)
     * 16.04. [Interview radioeins mit Linus Neumann/CCC](https://www.radioeins.de/programm/sendungen/die_schoene_woche/_/chaos-computer-club-fordert-stopp-von-luca-app.html) (Sicherheitskopie nötig, da nur bis 16.05. online)
     * 16.04. [luca: Stellungnahme zum Schreiben des CCC vom 13. April 2021](https://www.luca-app.de/stellungnahme-zum-schreiben-des-ccc-vom-13-april-2021/)
     * 16.04. Corona Warn App [netzpolitik.org: „Dann hat man irgendwie das Interesse verloren“](https://netzpolitik.org/2021/bilanz-der-corona-warn-app-dann-hat-man-irgendwie-das-interesse-verloren/)
     * 16.04. [LfDI BaWü: Podcast Datenfreiheit – Folge 11: Luca App in der Kritik](https://www.baden-wuerttemberg.datenschutz.de/podcast-datenfreiheit-folge-11-luca-app-in-der-kritik/)
-    * 17.04. [Intervie Berliner Zeitung: Gründer der Luca-App im Interview: „Wir erleben eine typisch deutsche Debatte“](https://www.berliner-zeitung.de/wochenende/gespraech-zu-luca-app-wir-erleben-jetzt-eine-typisch-deutsche-debatte-li.153041)
+    * 16.04. [M. Waldvogel: Luca und andere Apps — Contact Tracing quo vadis?](https://dnip.ch/2021/04/16/contact-tracing-quo-vadis/)
+    * 17.04. [Interview Berliner Zeitung: Gründer der Luca-App im Interview: „Wir erleben eine typisch deutsche Debatte“](https://www.berliner-zeitung.de/wochenende/gespraech-zu-luca-app-wir-erleben-jetzt-eine-typisch-deutsche-debatte-li.153041)
     * 17.04. [Nach massiver Kritik: Warum Bremen die Luca-App trotzdem nutzen will](https://www.butenunbinnen.de/nachrichten/politik/corona-warnapp-luca-einsatz-in-bremen-100.html)
+    * 19.04. [heise: Kontaktverfolgung: Sormas bei 84 Prozent der Gesundheitsämter einsetzbar](https://www.heise.de/news/Kontaktverfolgung-Sormas-bei-84-Prozent-der-Gesundheitsaemter-einsetzbar-6020119.html)
+    * 19.04. [Spiegel: IT-Sicherheitsbehörde prüft Luca-App](https://www.spiegel.de/netzwelt/apps/it-sicherheitsbehoerde-prueft-luca-app-a-651bc2fb-ea4d-4fb8-aeb4-62d87f654dfa)
+        * siehe dazu [Aktualisierung am 17.08.](https://www.spiegel.de/netzwelt/netzpolitik/luca-app-innenministerium-lehnt-sicherheitspruefung-ab-a-a6dba9ed-6d12-4ead-945a-bf06d6fc0795)
     * 20.04. [taz: Sicher ist anders](https://taz.de/Streit-um-Luca-App-in-Berlin/!5767152/)
     * [Wikipedia-Eintrag](https://de.wikipedia.org/wiki/Luca_%28App%29#Vergabeverfahren)
     * 23.04. [der freitag: Luca kam, sah – und spionierte Corona Die Länder geben 20 Millionen Euro für eine überflüssige App aus](https://www.freitag.de/autoren/der-freitag/luca-kam-sah-und-spionierte)
+    * 24.04. [netzpolitik.org: Warum im Voraus bezahlte Lizenzen eine schlechte Idee sind](https://netzpolitik.org/2021/luca-app-warum-im-voraus-bezahlte-lizenzen-eine-schlechte-idee-sind/)
     * 28.04. [taz: Datenschutzexperte über die Luca-App „Haufenweise Sicherheitslücken“](https://taz.de/Datenschutzexperte-ueber-die-Luca-App/!5762877/)
     * 29.04. [netzpolitk.org: Gesundheitsämter nutzen Luca kaum](https://netzpolitik.org/2021/digitale-kontaktnachverfolgung-gesundheitsaemter-nutzen-luca-kaum/)
     * 29.04. [iX: Corona-Tracking: Luca-Überwachung lässt sich mit Fake-Datenmüll aushebeln](https://www.heise.de/news/Corona-Tracking-Luca-Ueberwachung-laesst-sich-mit-Fake-Datenmuell-aushebeln-6031572.html)
     * 29.04. [Heise: Sicherheitsforscher: Risiken der Luca-App "völlig unverhältnismäßig"](https://www.heise.de/news/Sicherheitsforscher-Risiken-der-Luca-App-voellig-unverhaeltnismaessig-6031770.html)
         * [Gemeinsame Stellungnahme zur digitalen Kontaktnachverfolgung durch IT-Security-Professor*innen](https://digikoletter.github.io)
+    * 29.04.[Zeit: Forschende halten Risiken der Luca-App für "völlig unverhältnismäßig"](https://www.zeit.de/digital/datenschutz/2021-04/luca-app-sicherheitsluecken-datenschutz-kritik-corona)
+    * 29.04. [neXenio: Kurzstatement zu Forderungen von IT-Sicherheits­forscher:innen](https://www.luca-app.de/kurzstatement-forderungen-it-sicherheitsforscherinnen/)
     * 30.04. [Zeit: "Gesundheitsämter wollen nicht überhäuft werden mit Daten" - Interview mit Ulrich Kelber](https://www.zeit.de/digital/datenschutz/2021-04/ulrich-kelber-corona-warn-app-luca-datenschutz-check-in)
     * 30.04. [hessenschau: IT-Professor im Interview
 Darum warnen Sicherheitsexperten vor der Luca-App](https://www.hessenschau.de/gesellschaft/it-professor-im-interview-darum-warnen-sicherheitsexperten-vor-der-luca-app,kritik-an-luca-app-100.html)
     * 30.04. [Spiegel: Oberster Datenschützer will Corona-Warn-App »die Fesseln abstreifen«](https://www.spiegel.de/netzwelt/corona-warn-app-oberster-datenschuetzer-will-app-die-fesseln-abstreifen-a-02ab0168-00a1-4b4e-b532-d2b6b563a0e8)
+    * 30.04. [neXenio: Digitale Kontaktnach­verfolgung im Licht von IT-Sicherheit](https://www.luca-app.de/offizielle-stellungnahme-it-sicherheit-und-risikoabschaetzung/)
     * 03.05. [Zeit: "Bei Luca zahlen wir für ein Jahr Millionen und haben danach gar nichts" Interview mit Linus Neumann/CCC](https://www.sueddeutsche.de/politik/luca-app-corona-interview-1.5282528?reduced=true)
     * 04.05. [Zeit: Was bringt die Luca-App den Gesundheitsämtern wirklich?](https://www.zeit.de/digital/datenschutz/2021-04/luca-app-gesundheitsaemter-corona-kontaktverfolgung-hackerangriff-risiko?utm_referrer=https%3A%2F%2Ft.co%2F)
     * 04.05. [heise Developer: Episode 83: Architektur-Fehlschläge in aller Öffentlichkeit (am Beispiel Luca App)](https://www.heise.de/developer/artikel/Episode-83-Architektur-Fehlschlaege-in-aller-Oeffentlichkeit-6033205.html)
@@ -97,6 +120,36 @@ Darum warnen Sicherheitsexperten vor der Luca-App](https://www.hessenschau.de/ge
     * 12.05. [Markus Feilner: „Warnen Sie Ihre Bürgerinnen und Bürger vor der Luca-App“](https://www.regensburg-digital.de/warnen-sie-ihre-buergerinnen-und-buerger-vor-der-luca-app/12052021/)
     * 13.05. [Bianca Kastel: Die Luca App - LucaTrack und andere Gefahren (__VIDEO__: 67min)](https://media.ccc.de/v/cccs-202105-lucatrack-und-andere-gefahren)
     * #LucaApp Performance Monitor [Welche Gesundheitsämter nutzen Luca](https://luca.denken.io)
+    * 26.05. [heise: Gefahr für Gesundheitsämter: Luca-App ermöglicht Code Injection](https://www.heise.de/news/Gefahr-fuer-Gesundheitsaemter-Luca-App-ermoeglicht-Code-Injection-6054744.html)
+    * 03.06. [Video: Luca App: Nutzer greift Gesundheitsamt an und stiehlt Daten bevor er Ransomware schickt](https://vid.wildeboer.net/videos/watch/8aba8997-6dd0-45b2-9e14-d1eb1f259f3e)
+    * 18.06. [bidt/Bay. Akademie d. Wissenschaften: Lessons Learned: Raus aus dem Lockdown mit der Luca-App?](https://www.bidt.digital/lessons-learned-luca-app/)
+    * 21.06. [Die größten Pannen der Luca-App und was Entwickler:innen daraus lernen können](https://www.exali.de/Info-Base/luca-app-schwachstellen)
+    * 09.07. [Spiegel: »Start-ups haben andere Ziele als das Gemeinwohl«](https://www.spiegel.de/netzwelt/netzpolitik/unsichere-corona-software-start-ups-haben-andere-ziele-als-das-gemeinwohl-a-9cfadfe4-21a1-419f-9d2e-4fb96911840e)
+    * 21.07. [telepolis: Luca und Lügen](https://www.heise.de/tp/features/Luca-und-Luegen-6144169.html)
+    * 26.07. [Sicherheitseinschätzung der Luca-App](https://fragdenstaat.de/anfrage/sicherheitseinschatzung-der-luca-app/)
+        * [IFG-Anfrage](./sources/luca1.pdf) 
+        * [Vergabeunterlagen](./sources/luca2.pdf)
+        * [Stellungnahme Luca-App BSI](./sources/luca3.pdf)
+    * 29.07. [Luca-App erkennt die Klammern in Halle (Saale) nicht](https://www.mdr.de/nachrichten/sachsen-anhalt/halle/halle/luca-app-probleme-sonderzeichen-100.html)
+    * 29.07. [telepolis: Google, Apple und die Luca-App](https://www.heise.de/tp/features/Google-Apple-und-die-Luca-App-6149774.html)
+    * 06.08. [Welt: Oberlandesgericht überprüft Kauf der Luca-App durch das Land](https://www.welt.de/regionales/mecklenburg-vorpommern/article232977881/Oberlandesgericht-ueberprueft-Kauf-der-Luca-App-durch-das-Land.html)
+    * 10.08. [RP: Grüne: Land soll vor Luca-App warnen](https://rp-online.de/wirtschaft/die-gruenen-land-nrw-soll-vor-luca-app-warnen_aid-62077023)
+    * 11.08. [SZ: "Wir können nicht sinnvoll mit Luca arbeiten"](https://www.sueddeutsche.de/wirtschaft/luca-app-gesundheitsamt-berlin-neukoelln-datenschutz-1.5378628?reduced=true)
+    * 16.08. [taz: Ein lehrreiches Debakel](https://taz.de/Maengel-der-Luca-App/!5789480/) "Reihenweise beschafften Verwaltungen die Nachverfolgungs-App Luca, obwohl diese gravierende Sicherheitsmängel aufweist."
+    * 16.08. [taz: Amt nutzt Luca-App keine zehn Mal](https://taz.de/Bremer-Kontaktnachverfolgung/!5793395/)
+    * 17.08. [Spiegel: Innenministerium lehnt Prüfung der Luca-App ab](https://www.spiegel.de/netzwelt/netzpolitik/luca-app-innenministerium-lehnt-sicherheitspruefung-ab-a-a6dba9ed-6d12-4ead-945a-bf06d6fc0795)
+    * 21.08. [SZ: Die teure App, die wenig bringt](https://www.sueddeutsche.de/wirtschaft/luca-app-kritik-1.5388136)
+    * 24.08. [telepolis: Das Ende des Luca-Skandals](https://www.heise.de/tp/features/Das-Ende-des-Luca-Skandals-6172907.html)
+    * 25.08. [neXenio: Macher der luca App nehmen Stellung: Fakten vs. Geraune](https://www.luca-app.de/macher-der-luca-app-nehmen-stellung-fakten-vs-geraune/)
+    * 09.09. [SR: Luca-App im Saarland bislang ein Flop](https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/luca-app_im_saarland_bislang_ein_flop_100.html#)
+    * 13.09. [Tagesspiegel: Muss Berlin die Nutzung der Luca-App beenden?](https://www.tagesspiegel.de/berlin/zweifel-an-datensammlung-muss-berlin-die-nutzung-der-luca-app-beenden/27608662.html)
+    * 28.09. [Politics Compromised Privacy, Transparency In Germany’s Contact Tracing Apps: New Report](https://www.liberties.eu/en/stories/covid-contact-tracing-app/43758)
+    * 29.09. [NDR: Neue Beschwerde gegen Luca-App-Beschaffung in MV](https://www.ndr.de/nachrichten/mecklenburg-vorpommern/Neue-Beschwerde-gegen-Luca-App-Beschaffung-in-MV,lucaapp122.html)
+    * 30.09. [DSFA der Luca Anwendung](https://fragdenstaat.de/anfrage/dsfa-der-luca-anwendung/)
+    * 02.11. [GEA: Weitermachen mit der Luca-App? Das sagen Politiker und der Dehoga-Landeschef](https://www.gea.de/land_artikel,-weitermachen-mit-der-luca-app-das-sagen-politiker-und-der-dehoga-landeschef-_arid,6518821.html)
+    * 09.11. [heise: Steuerzahlerbund rügt Luca-App, digitalen Impfnachweis und IT-Chaos beim Bund](https://www.heise.de/news/Steuerzahlerbund-ruegt-Luca-App-digitalen-Impfnachweis-und-IT-Chaos-beim-Bund-6262887.html)
+    * 09.11. [LUCA-App: Vorauszahlungen mit zweifelhaftem Nutzen](https://www.schwarzbuch.de/aufgedeckt/steuergeldverschwendung-alle-faelle/details/luca-app-vorauszahlungen-mit-zweifelhaftem-nutzen)
+
 * Einsatz von Clubhouse in der ÖV (Reaktion InitiaveD21 aufnehmen und loben für gute Kommunikation), insb. mit Bezug auf Barrierefreiheit
     * [Clubhouse: Ärger wegen Sicherheitslücken und Datentransfer nach China](https://www.heise.de/news/Clubhouse-Aerger-wegen-Sicherheitsluecken-und-Datentransfer-nach-China-5055434.html)
     * [Clubhouse: 1,3 Millionen benutzerbezogene Daten im Netz](https://www.heise.de/news/Clubhouse-1-3-Millionen-benutzerbezogene-Daten-im-Netz-6010931.html)
@@ -187,7 +240,12 @@ Schülerscherze und Angriffe - Unbekannter stören den Onlineunterricht; c't 202
     * 09.05. [IT-Bündnis: Europa muss bei der Cloud mit den USA auf Augenhöhe kommen](https://www.heise.de/news/IT-Buendnis-Europa-muss-bei-der-Cloud-mit-den-USA-auf-Augenhoehe-kommen-6041875.html)
     * [Spiegel: Microsoft will EU-Daten auch in der EU verarbeiten](https://www.spiegel.de/netzwelt/web/microsoft-will-eu-daten-auch-in-der-eu-verarbeiten-a-23f0c468-eebd-47ba-8ec1-1a6dee976ecc)
     * [Bundesregierung will "autarke" Microsoft-Cloud testen](https://www.heise.de/news/Bundesregierung-will-autarke-Microsoft-Cloud-testen-6020580.html)
-* [Digitale Souveränität](https://www.heise.de/news/Teures-Prestigeprojekt-Europas-souveraene-Chips-6010032.html)
+* Digitale Souveränität 
+    * [Der ÖFIT-Selbsttest zur digitalen Souveränität von Organisationen](https://www.oeffentliche-it.de/selbsttest-digitale-souveraenitaet)
+    * [Digitale Souveränität - Teures Prestigeprojekt](https://www.heise.de/news/Teures-Prestigeprojekt-Europas-souveraene-Chips-6010032.html)
+* Blockchain
+    * [R. Rehak: "Die Blockchain politisch gelesen
+Vom Experiment einer Gesellschaft ohne Vertrauen"](./sources/rehak_blockchain.pdf)
 
 * Digitaler Impfpass
     * [Digitaler Corona-Impfpass: IBM, Ubirch und fünf Blockchains](https://www.heise.de/news/Digitaler-Corona-Impfpass-IBM-Ubirch-und-fuenf-Blockchains-5076161.html)
