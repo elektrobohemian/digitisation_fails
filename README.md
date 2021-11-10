@@ -249,12 +249,19 @@ Vom Experiment einer Gesellschaft ohne Vertrauen"](./sources/rehak_blockchain.pd
         * 10.07. [FAZ: Erster Cyber-Katastrophenfall in Deutschland](https://www.faz.net/aktuell/wirtschaft/digitec/erster-cyber-katastrophenfall-in-deutschland-landkreis-liegt-lahm-17431739.html)
         * 16.07. [heise: Cyberangriff auf Anhalt-Bitterfeld: Suche nach Lücken, Stellungnahme des CCC](https://www.heise.de/news/Cyberangriff-auf-Anhalt-Bitterfeld-Suche-nach-Luecken-Stellungnahme-des-CCC-6140238.html)
         * 27.07. [heise: Nach Ransomware-Angriff: Anhalt-Bitterfeld bittet Bundeswehr um Hilfe](https://www.heise.de/news/Nach-Cyberangriff-Anhalt-Bitterfeld-bittet-Bundeswehr-um-Hilfe-6148624.html)
+        * [Spiegel: Hacker stellen persönliche Daten von Abgeordneten ins Darknet](https://www.spiegel.de/netzwelt/netzpolitik/anhalt-bitterfeld-hacker-stellen-persoenliche-daten-von-abgeordneten-ins-darknet-a-b3655f6d-0002-0001-0000-000178686047)
 
     * [MDR: Hackerangriff mit Erpressungs-Software auf Uni Leipzig](https://www.mdr.de/nachrichten/sachsen/leipzig/leipzig-leipzig-land/hackerangriff-universitaet-leipzig-100.html)
     * [heise: Ransomware legt Verwaltung von Schwerin und benachbartem Landkreis lahm](https://www.heise.de/news/Ransomware-legt-Verwaltung-von-Schwerin-und-benachbartem-Landkreis-lahm-6219590.html)
     * [Golem: IT-Angriff legt Schwerin und Landkreis lahm](https://www.golem.de/news/schadsoftware-it-angriff-legt-schwerin-und-landkreis-lahm-2110-160350.html)
     * [deutschlandfunk: Experten warnen vor dem IT-Blackout](https://www.deutschlandfunk.de/sicherheitsmesse-itsa-experten-warnen-vor-dem-it-blackout.684.de.html?dram:article_id=504362)
     * [ntv: Deutschland hält Hackern die Türen auf](https://www.n-tv.de/politik/Deutschland-haelt-Hackern-die-Tueren-auf-article22888202.html)
+
+* Wahlkampf 2021 (insb. CDU-Wahlkampf-App)
+    * [L. Wittmann: Wenn die CDU ihren Wahlkampf digitalisiert…](https://lilithwittmann.medium.com/wenn-die-cdu-ihren-wahlkampf-digitalisiert-a3e9a0398b4d)
+    * [taz: Lilith Wittmann über Wahlkampf-Apps: „Manche spielen Sudoku. Ich hacke“](https://taz.de/Lilith-Wittmann-ueber-Wahlkampf-Apps/!5802119/)
+    * [Spiegel: Staatsanwaltschaft bestätigt Schwachstelle in Wahlkampf-App der CDU](https://www.spiegel.de/netzwelt/netzpolitik/staatsanwaltschaft-bestaetigt-schwachstelle-in-wahlkampf-app-der-cdu-a-b66c2a32-4c4c-4337-83b3-795d749ee4b7)
+    * [heise: Verfahren gegen Lilith Wittmann eingestellt – weil CDU connect ungeschützt war](https://www.heise.de/news/Verfahren-gegen-Lilith-Wittmann-eingestellt-weil-CDU-connect-ungeschuetzt-war-6194222.html)
     
 ## Fails - rein technisch
 
