@@ -242,7 +242,20 @@ Vom Experiment einer Gesellschaft ohne Vertrauen"](./sources/rehak_blockchain.pd
         * [Bewertung Hotel Check-In Pilot](./sources/idwallet3.pdf)
 
 * Ransomware etc.
-    * 
+    * [heise: Emotet: Gut 4 Millionen kopierter Mail-Adressen bei Prüfdienst Have I Been Pwned](https://www.heise.de/news/Emotet-Gut-4-Millionen-kopierter-Mail-Adressen-bei-Pruefdienst-Have-I-Been-Pwned-6030480.html)
+    * [heise: Cyberangriff: TU Berlin rechnet mit monatelangen IT-Einschränkungen](https://www.heise.de/news/Cyberangriff-TU-Berlin-rechnet-mit-monatelangen-IT-Einschraenkungen-6061688.html)
+    * Anhalt-Bitterfeld
+        * 09.07. [MDR: Anhalt-Bitterfeld: "Situation ist beschissen, aber nicht hoffnungslos"](https://www.mdr.de/nachrichten/sachsen-anhalt/dessau/hacker-angriff-anhalt-bitterfeld-pressekonferenz-100.html)
+        * 10.07. [FAZ: Erster Cyber-Katastrophenfall in Deutschland](https://www.faz.net/aktuell/wirtschaft/digitec/erster-cyber-katastrophenfall-in-deutschland-landkreis-liegt-lahm-17431739.html)
+        * 16.07. [heise: Cyberangriff auf Anhalt-Bitterfeld: Suche nach Lücken, Stellungnahme des CCC](https://www.heise.de/news/Cyberangriff-auf-Anhalt-Bitterfeld-Suche-nach-Luecken-Stellungnahme-des-CCC-6140238.html)
+        * 27.07. [heise: Nach Ransomware-Angriff: Anhalt-Bitterfeld bittet Bundeswehr um Hilfe](https://www.heise.de/news/Nach-Cyberangriff-Anhalt-Bitterfeld-bittet-Bundeswehr-um-Hilfe-6148624.html)
+
+    * [MDR: Hackerangriff mit Erpressungs-Software auf Uni Leipzig](https://www.mdr.de/nachrichten/sachsen/leipzig/leipzig-leipzig-land/hackerangriff-universitaet-leipzig-100.html)
+    * [heise: Ransomware legt Verwaltung von Schwerin und benachbartem Landkreis lahm](https://www.heise.de/news/Ransomware-legt-Verwaltung-von-Schwerin-und-benachbartem-Landkreis-lahm-6219590.html)
+    * [Golem: IT-Angriff legt Schwerin und Landkreis lahm](https://www.golem.de/news/schadsoftware-it-angriff-legt-schwerin-und-landkreis-lahm-2110-160350.html)
+    * [deutschlandfunk: Experten warnen vor dem IT-Blackout](https://www.deutschlandfunk.de/sicherheitsmesse-itsa-experten-warnen-vor-dem-it-blackout.684.de.html?dram:article_id=504362)
+    * [ntv: Deutschland hält Hackern die Türen auf](https://www.n-tv.de/politik/Deutschland-haelt-Hackern-die-Tueren-auf-article22888202.html)
+    
 ## Fails - rein technisch
 
 * [The Atlas of Digital Damages](https://www.flickr.com/groups/2121762@N23)
@@ -277,6 +290,7 @@ Vom Experiment einer Gesellschaft ohne Vertrauen"](./sources/rehak_blockchain.pd
     * [heise: Geoinformationen: OpenStreetMap-Daten im alltäglichen Einsatz](https://www.heise.de/hintergrund/Geoinformationen-OpenStreetMap-Daten-im-alltaeglichen-Einsatz-6142666.html)
     * [heise: Nachhilfe für den Bund: Freiwillige dokumentieren Programmierschnittstellen](https://www.heise.de/news/Nachhilfe-fuer-den-Bund-Freiwillige-dokumentieren-Programmierschnittstellen-6158153.html)
     * [netzpolitik.org: Aktivist:innen handeln, der Staat schaut zu](https://netzpolitik.org/2021/open-data-aktivistinnen-handeln-der-staat-schaut-zu/)
+    * [wired: These Parents Built a School App. Then the City Called the Cops](https://www.wired.com/story/sweden-stockholm-school-app-open-source/)
 
     * Plattformen
         * [Berlin Open Data](https://daten.berlin.de)
