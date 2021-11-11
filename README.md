@@ -149,6 +149,7 @@ Darum warnen Sicherheitsexperten vor der Luca-App](https://www.hessenschau.de/ge
     * 02.11. [GEA: Weitermachen mit der Luca-App? Das sagen Politiker und der Dehoga-Landeschef](https://www.gea.de/land_artikel,-weitermachen-mit-der-luca-app-das-sagen-politiker-und-der-dehoga-landeschef-_arid,6518821.html)
     * 09.11. [heise: Steuerzahlerbund rügt Luca-App, digitalen Impfnachweis und IT-Chaos beim Bund](https://www.heise.de/news/Steuerzahlerbund-ruegt-Luca-App-digitalen-Impfnachweis-und-IT-Chaos-beim-Bund-6262887.html)
     * 09.11. [LUCA-App: Vorauszahlungen mit zweifelhaftem Nutzen](https://www.schwarzbuch.de/aufgedeckt/steuergeldverschwendung-alle-faelle/details/luca-app-vorauszahlungen-mit-zweifelhaftem-nutzen)
+    * 11.11. [Direktvergabe der Luca-App durch das Land MV vergaberechtswidrig erfolgt](https://www.mv-justiz.de/gerichte-und-staatsanwaltschaften/ordentliche-gerichte/oberlandesgericht-rostock/Aktuelles/?id=175558&processor=processor.sa.pressemitteilung)
 
 * Einsatz von Clubhouse in der ÖV (Reaktion InitiaveD21 aufnehmen und loben für gute Kommunikation), insb. mit Bezug auf Barrierefreiheit
     * [Clubhouse: Ärger wegen Sicherheitslücken und Datentransfer nach China](https://www.heise.de/news/Clubhouse-Aerger-wegen-Sicherheitsluecken-und-Datentransfer-nach-China-5055434.html)
@@ -318,7 +319,7 @@ Vom Experiment einer Gesellschaft ohne Vertrauen"](./sources/rehak_blockchain.pd
 * Digitale Souveränität 
     * [Der ÖFIT-Selbsttest zur digitalen Souveränität von Organisationen](https://www.oeffentliche-it.de/selbsttest-digitale-souveraenitaet)
     * [Digitale Souveränität - Teures Prestigeprojekt](https://www.heise.de/news/Teures-Prestigeprojekt-Europas-souveraene-Chips-6010032.html)
-    
+
 * Einsatz von Open Source Software in der öffentlichen Verwaltung
     * [Open Source im öffentlichen Sektor](https://www.linux-magazin.de/ausgaben/2021/08/public-foss/)
     * [heise: Good Governance: OSPO Alliance kündigt Handbuch für Open-Source-Projekte an](https://www.heise.de/news/Good-Governance-OSPO-Alliance-kuendigt-Handbuch-fuer-Open-Source-Projekte-an-6263364.html)
