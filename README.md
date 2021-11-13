@@ -57,6 +57,8 @@ Lehren aus der Corona-Krise; Gutachten des Wissenschaftlichen Beirats beim Bunde
         * https://gitlab.com/lucaapp
     * Meanwhile at Corona Warn-App - komplette Offenlegung:
         * https://github.com/corona-warn-app
+    * [WDR: Drei Apps gegen Corona? – Ein unnötiges Chaos](https://blog.wdr.de/digitalistan/drei-apps-gegen-corona-ein-unnoetiges-chaos/)
+    * [heise: Digitaler Impfnachweis: CovPass kostet fünfmal mehr als geplant](https://www.heise.de/news/Digitaler-Impfnachweis-CovPass-kostet-fuenfmal-mehr-als-geplant-6265804.html)
     
     Chronologie 2021
 
