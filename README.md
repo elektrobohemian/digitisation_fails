@@ -29,6 +29,7 @@ Lehren aus der Corona-Krise; Gutachten des Wissenschaftlichen Beirats beim Bunde
 * [Digitalkompetenz: Was wurde eigentlich aus der Bundeszentrale für digitale Aufklärung, Frau Bär?](https://netzpolitik.org/2021/digitalkompetenz-was-wurde-eigentlich-aus-der-bundeszentrale-fuer-digitale-aufklaerung-frau-baer/)
 * [Scheinlösung Digitalministerium](https://www.stiftung-nv.de/de/publikation/scheinloesung-digitalministerium)
 * [Awful AI:](https://github.com/daviddao/awful-ai) "Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness to its misuses in society"
+* [heise: Patch me if you can: Digitalisierungsschub durch Corona – Neulandunter?](https://www.heise.de/meinung/Patch-me-if-you-can-Digitalisierungsschub-durch-Corona-Neulandunter-6054772.html)
 
 
 ## Fail
@@ -38,6 +39,7 @@ Lehren aus der Corona-Krise; Gutachten des Wissenschaftlichen Beirats beim Bunde
     * in 2021 steigt z.B. die Telekom aus
     * [TELEKOM-CHEF: De-Mail ist ein "toter Gaul"](https://www.golem.de/news/telekom-chef-de-mail-ist-ein-toter-gaul-2103-154574.html)
     * [Spiegel: Telekom schaltet De-Mail ab](https://www.spiegel.de/netzwelt/netzpolitik/telekom-schaltet-de-mail-ab-a-1cf7a036-c4ad-4d3c-b8d8-2f3d1afa7944)
+    * Meine erste DeMail: ![Kündigungsbestätigung](./sources/first_de_mail.png) [Bildquelle](https://twitter.com/lennybacon/status/1456190407755374596?s=20)
 * [beA: Das besondere elektronische Anwaltspostfach](https://www.brak.de/fuer-anwaelte/bea-das-besondere-elektronische-anwaltspostfach/)
     * Fail, weil das BGH mit seiner Einschätzung kaum dem Stand der Technik folgt, davor gab es diverse technische Schwächen
     * [Besonderes elektronisches Anwaltspostfach: Schadenersatzforderung und Vertröstungen](https://www.heise.de/newsticker/meldung/Besonderes-elektronisches-Anwaltspostfach-Schadenersatzforderung-und-Vertroestungen-3976424.html)
@@ -58,7 +60,9 @@ Lehren aus der Corona-Krise; Gutachten des Wissenschaftlichen Beirats beim Bunde
     * Meanwhile at Corona Warn-App - komplette Offenlegung:
         * https://github.com/corona-warn-app
     * [WDR: Drei Apps gegen Corona? – Ein unnötiges Chaos](https://blog.wdr.de/digitalistan/drei-apps-gegen-corona-ein-unnoetiges-chaos/)
+    * [heise: Digitale Corona-Impfzertifikate: Was bisher falsch lief](https://www.heise.de/news/Digitale-Corona-Impfzertifikate-Was-bisher-falsch-lief-6156971.html)
     * [heise: Digitaler Impfnachweis: CovPass kostet fünfmal mehr als geplant](https://www.heise.de/news/Digitaler-Impfnachweis-CovPass-kostet-fuenfmal-mehr-als-geplant-6265804.html)
+    * [Zeit: Corona-Warn-App- Besser, als Sie denken](https://www.zeit.de/digital/mobil/2021-06/corona-warn-app-bundesregierung-digitalisierung-infektionsketten-datenschut?utm_referrer=https%3A%2F%2Ft.co%2F)
     
     Chronologie 2021
 
@@ -123,10 +127,15 @@ Darum warnen Sicherheitsexperten vor der Luca-App](https://www.hessenschau.de/ge
     * 13.05. [Bianca Kastel: Die Luca App - LucaTrack und andere Gefahren (__VIDEO__: 67min)](https://media.ccc.de/v/cccs-202105-lucatrack-und-andere-gefahren)
     * #LucaApp Performance Monitor [Welche Gesundheitsämter nutzen Luca](https://luca.denken.io)
     * 26.05. [heise: Gefahr für Gesundheitsämter: Luca-App ermöglicht Code Injection](https://www.heise.de/news/Gefahr-fuer-Gesundheitsaemter-Luca-App-ermoeglicht-Code-Injection-6054744.html)
+    * 26.05. [netzpolitik.org: Schon wieder desaströse Sicherheitslücke in Luca App](https://netzpolitik.org/2021/it-sicherheit-schon-wieder-desastroese-sicherheitsluecke-in-luca-app/)
+    * 26.05. [Zeit: Hacker können Gesundheitsämter über Luca angreifen](https://www.zeit.de/digital/2021-05/luca-app-gesundheitsaemter-hackerangriff-risiko-kontaktverfolgung-coronavirus/komplettansicht?utm_referrer=https%3A%2F%2Fwww.zeit.de%2Fzustimmung%3Furl%3Dhttps%253A%252F%252Fwww.zeit.de%252Fdigital%252F2021-05%252Fluca-app-gesundheitsaemter-hackerangriff-risiko-kontaktverfolgung-coronavirus%252Fkomplettansicht)
+    * 26.05. [luca: Hinweis auf einen potentiellen Missbrauch des luca-Systems im Zusammenhang Microsoft Excel Code Injection](https://www.luca-app.de/hinweis-auf-einen-potentiellen-missbrauch-des-luca-systems/)
     * 03.06. [Video: Luca App: Nutzer greift Gesundheitsamt an und stiehlt Daten bevor er Ransomware schickt](https://vid.wildeboer.net/videos/watch/8aba8997-6dd0-45b2-9e14-d1eb1f259f3e)
     * 18.06. [bidt/Bay. Akademie d. Wissenschaften: Lessons Learned: Raus aus dem Lockdown mit der Luca-App?](https://www.bidt.digital/lessons-learned-luca-app/)
     * 21.06. [Die größten Pannen der Luca-App und was Entwickler:innen daraus lernen können](https://www.exali.de/Info-Base/luca-app-schwachstellen)
+    * 21.06. [LANDTAG NORDRHEIN-WESTFALEN, Kleine Anfrage: Sicherheitslücken bei der Luca-App; Drucksache 17/14251](https://www.landtag.nrw.de/portal/WWW/dokumentenarchiv/Dokument/MMD17-14251.pdf)
     * 09.07. [Spiegel: »Start-ups haben andere Ziele als das Gemeinwohl«](https://www.spiegel.de/netzwelt/netzpolitik/unsichere-corona-software-start-ups-haben-andere-ziele-als-das-gemeinwohl-a-9cfadfe4-21a1-419f-9d2e-4fb96911840e)
+    * 13.07. [Volksstimme: Eingecheckt, nichts gecheckt: Probleme mit der Luca-App bei Messe in Magdeburg](https://www.volksstimme.de/lokal/magdeburg/eingecheckt-nichts-gecheckt-probleme-mit-der-luca-app-bei-messe-in-magdeburg-3203796)
     * 21.07. [telepolis: Luca und Lügen](https://www.heise.de/tp/features/Luca-und-Luegen-6144169.html)
     * 26.07. [Sicherheitseinschätzung der Luca-App](https://fragdenstaat.de/anfrage/sicherheitseinschatzung-der-luca-app/)
         * [IFG-Anfrage](./sources/luca1.pdf) 
@@ -140,6 +149,9 @@ Darum warnen Sicherheitsexperten vor der Luca-App](https://www.hessenschau.de/ge
     * 16.08. [taz: Ein lehrreiches Debakel](https://taz.de/Maengel-der-Luca-App/!5789480/) "Reihenweise beschafften Verwaltungen die Nachverfolgungs-App Luca, obwohl diese gravierende Sicherheitsmängel aufweist."
     * 16.08. [taz: Amt nutzt Luca-App keine zehn Mal](https://taz.de/Bremer-Kontaktnachverfolgung/!5793395/)
     * 17.08. [Spiegel: Innenministerium lehnt Prüfung der Luca-App ab](https://www.spiegel.de/netzwelt/netzpolitik/luca-app-innenministerium-lehnt-sicherheitspruefung-ab-a-a6dba9ed-6d12-4ead-945a-bf06d6fc0795)
+    * 17.08. [Golem: Innenministerium untersagt Überprüfung der Luca-App](https://www.golem.de/news/bsi-innenministerium-untersagt-ueberpruefung-der-luca-app-2108-158950.html)
+    * 19.08. [RND: Luca-App: Was bleibt, ist nicht mehr als ein Märchen](https://www.rnd.de/panorama/luca-app-was-bleibt-ist-nicht-mehr-als-ein-maerchen-IJ3NA7VSQZDPDCUVLOCYJQGFWQ.html)
+    * 19.08. [MDR: Erwartungen nicht erfüllt: Luca-App in Thüringen nur noch wenig genutzt](https://www.mdr.de/nachrichten/thueringen/luca-app-corona-sormas-100.html)
     * 21.08. [SZ: Die teure App, die wenig bringt](https://www.sueddeutsche.de/wirtschaft/luca-app-kritik-1.5388136)
     * 24.08. [telepolis: Das Ende des Luca-Skandals](https://www.heise.de/tp/features/Das-Ende-des-Luca-Skandals-6172907.html)
     * 25.08. [neXenio: Macher der luca App nehmen Stellung: Fakten vs. Geraune](https://www.luca-app.de/macher-der-luca-app-nehmen-stellung-fakten-vs-geraune/)
@@ -152,6 +164,7 @@ Darum warnen Sicherheitsexperten vor der Luca-App](https://www.hessenschau.de/ge
     * 09.11. [heise: Steuerzahlerbund rügt Luca-App, digitalen Impfnachweis und IT-Chaos beim Bund](https://www.heise.de/news/Steuerzahlerbund-ruegt-Luca-App-digitalen-Impfnachweis-und-IT-Chaos-beim-Bund-6262887.html)
     * 09.11. [LUCA-App: Vorauszahlungen mit zweifelhaftem Nutzen](https://www.schwarzbuch.de/aufgedeckt/steuergeldverschwendung-alle-faelle/details/luca-app-vorauszahlungen-mit-zweifelhaftem-nutzen)
     * 11.11. [Direktvergabe der Luca-App durch das Land MV vergaberechtswidrig erfolgt](https://www.mv-justiz.de/gerichte-und-staatsanwaltschaften/ordentliche-gerichte/oberlandesgericht-rostock/Aktuelles/?id=175558&processor=processor.sa.pressemitteilung)
+    * 22.11. [t3n: Ministerium hält früheres Vertragsende von Luca-App für denkbar](https://t3n.de/news/ministerium-vertragsende-luca-app-1429908/)
 
 * Einsatz von Clubhouse in der ÖV (Reaktion InitiaveD21 aufnehmen und loben für gute Kommunikation), insb. mit Bezug auf Barrierefreiheit
     * [Clubhouse: Ärger wegen Sicherheitslücken und Datentransfer nach China](https://www.heise.de/news/Clubhouse-Aerger-wegen-Sicherheitsluecken-und-Datentransfer-nach-China-5055434.html)
@@ -233,6 +246,7 @@ Vom Experiment einer Gesellschaft ohne Vertrauen"](./sources/rehak_blockchain.pd
     * [Mythos Blockchain - Zwischen Hoffnung und Realität](https://www.oeffentliche-it.de/publikationen?doc=221689&title=Mythos+Blockchain+-+Zwischen+Hoffnung+und+Realität)
 
 * IDwallet
+    * [Die schönsten #IDWallet Fehlermeldungen](https://gist.github.com/rena2019/a7d68aceded5a99439504656ea8ffef0)
     * [netzpolitik.org: Kopfsprung mit Anlauf ins leere Becken](https://netzpolitik.org/2021/id-wallet-kopfsprung-mit-anlauf-ins-leere-becken/)
     * [t3n: Digitaler Führerschein: ID Wallet mit enormen Startschwierigkeiten](https://t3n.de/news/digitaler-fuehrerschein-id-schwierigkeiten-1410191/)
     * [heise: Digitaler Führerschein hatte keinen Schutz vor Identitätsdiebstahl​](https://www.heise.de/news/Digitaler-Fuehrerschein-hatte-keinen-Schutz-vor-Identitaetsdiebstahl-6204574.html)
@@ -243,6 +257,15 @@ Vom Experiment einer Gesellschaft ohne Vertrauen"](./sources/rehak_blockchain.pd
         * [Anschreiben](./sources/idwallet1.pdf)
         * [Zusammenfassung Pentest](./sources/idwallet2.pdf)
         * [Bewertung Hotel Check-In Pilot](./sources/idwallet3.pdf)
+    * ID Wallet des Bundeskanzleramts, ein Projekt der Bundesregierung: Datenschutzrechtliche Aspekte [Frag den Staat](https://fragdenstaat.de/anfrage/id-wallet-des-bundeskanzleramts-ein-projekt-der-bundesregierung-datenschutzrechtliche-aspekte/)
+    * [Zeit: Sind ja nur die Ausweisdaten](https://www.zeit.de/digital/2021-11/app-id-wallet-gescheitert-digitale-identitaet-fuehrerschein-personalausweis)
+    * [Spiegel: Blamage digitaler Führerschein - »Verantwortungslos und gefährlich«](https://www.spiegel.de/netzwelt/apps/id-wallet-was-nach-dem-fehlstart-mit-dem-digitalen-fuehrerschein-passiert-a-f4bc10bc-08ab-42b4-9325-5de5cdc66e05)
+    * Bilder/Tweet-Sammlung
+        * Wer ist Dr. Tobias Plate: "Heute leitet er das Referat „Digitaler Staat“ in der neu geschaffenen Abteilung 6 des Bundeskanzleramtes, die den Titel „Politische Planung, Innovation und Digitalpolitik, Strategische IT-Steuerung“ trägt." [Quelle](https://www.zukunftskongress.info/de/node/3354)
+        * ![Tobias Plate 1](./sources/idwallet/img1.png) [Quelle](https://twitter.com/platetobias/status/1441002886075408384?s=21)
+        * ![Replik](./sources/idwallet/img2.png) [Quelle](https://twitter.com/Joerg_Lenz/status/1441159359346610178?s=20)
+        * ![Löschung Betreiberfirma](./sources/idwallet/img3.png) [Quelle](https://twitter.com/thomasfricke/status/1447894708617949184?s=20)
+        * [Backup Original-Website](./sources/idwallet/bundeskanzleramt_idwallet_website.pdf) [Website](https://www.bundesregierung.de/breg-de/suche/e-id-1962112)
 
 * Ransomware etc.
     * [heise: Emotet: Gut 4 Millionen kopierter Mail-Adressen bei Prüfdienst Have I Been Pwned](https://www.heise.de/news/Emotet-Gut-4-Millionen-kopierter-Mail-Adressen-bei-Pruefdienst-Have-I-Been-Pwned-6030480.html)
@@ -253,6 +276,8 @@ Vom Experiment einer Gesellschaft ohne Vertrauen"](./sources/rehak_blockchain.pd
         * 16.07. [heise: Cyberangriff auf Anhalt-Bitterfeld: Suche nach Lücken, Stellungnahme des CCC](https://www.heise.de/news/Cyberangriff-auf-Anhalt-Bitterfeld-Suche-nach-Luecken-Stellungnahme-des-CCC-6140238.html)
         * 27.07. [heise: Nach Ransomware-Angriff: Anhalt-Bitterfeld bittet Bundeswehr um Hilfe](https://www.heise.de/news/Nach-Cyberangriff-Anhalt-Bitterfeld-bittet-Bundeswehr-um-Hilfe-6148624.html)
         * [Spiegel: Hacker stellen persönliche Daten von Abgeordneten ins Darknet](https://www.spiegel.de/netzwelt/netzpolitik/anhalt-bitterfeld-hacker-stellen-persoenliche-daten-von-abgeordneten-ins-darknet-a-b3655f6d-0002-0001-0000-000178686047)
+        * [Bundeswehr: Amtshilfe in Bitterfeld – ITInformationstechnik-Soldaten im zivilen Einsatz](https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/aktuelles/amtshilfe-in-bitterfeld-5217614)
+        * [Erste Cyber-Amtshilfe: Bundeswehr zieht Bilanz](https://augengeradeaus.net/2021/09/erste-cyber-amtshilfe-bundeswehr-zieht-bilanz/)
 
     * [MDR: Hackerangriff mit Erpressungs-Software auf Uni Leipzig](https://www.mdr.de/nachrichten/sachsen/leipzig/leipzig-leipzig-land/hackerangriff-universitaet-leipzig-100.html)
     * [heise: Ransomware legt Verwaltung von Schwerin und benachbartem Landkreis lahm](https://www.heise.de/news/Ransomware-legt-Verwaltung-von-Schwerin-und-benachbartem-Landkreis-lahm-6219590.html)
@@ -318,6 +343,8 @@ Vom Experiment einer Gesellschaft ohne Vertrauen"](./sources/rehak_blockchain.pd
     * [Bundesregierung will "autarke" Microsoft-Cloud testen](https://www.heise.de/news/Bundesregierung-will-autarke-Microsoft-Cloud-testen-6020580.html)
         * [#heiseshow: Digitale Souveränität in Deutschen Behörden trotz Microsoft?](https://www.heise.de/news/heiseshow-Digitale-Souveraenitaet-in-Deutschen-Behoerden-trotz-Microsoft-6129459.html)
     * [Handelsblatt: Wie Gaia-X europäische Daten vor dem Zugriff von US-Behörden schützen will](https://app.handelsblatt.com/politik/deutschland/cloud-projekt-wie-gaia-x-europaeische-daten-vor-dem-zugriff-von-us-behoerden-schuetzen-will/27126688.html?share=twitter&ticket=ST-3217932-fHGxZiRpf4AfonyeEGUf-cas01.example.org)
+    * [heise: EU-Cloud: Gaia-X "lediglich ein weiteres Bürokratiemonster"](https://www.heise.de/news/EU-Cloud-Gaia-X-lediglich-ein-weiteres-Buerokratiemonster-6273961.html)
+    * [FAZ: „Bundescloud“ wegen Microsoft-Beteiligung in der Kritik](https://www.faz.net/aktuell/wirtschaft/digitec/cloud-fuer-behoerden-wegen-microsoft-beteiligung-in-der-kritik-17569277.html)
 * Digitale Souveränität 
     * [Der ÖFIT-Selbsttest zur digitalen Souveränität von Organisationen](https://www.oeffentliche-it.de/selbsttest-digitale-souveraenitaet)
     * [Digitale Souveränität - Teures Prestigeprojekt](https://www.heise.de/news/Teures-Prestigeprojekt-Europas-souveraene-Chips-6010032.html)
