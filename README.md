@@ -7,7 +7,7 @@
 
 Bei der folgenden Liste handelt es sich um eine subjektive Auswahl mit dem Fokus auf die öffentliche Verwaltung in Deutschland. Sie dient als Themenspeicher für meine Lehrveranstaltungen und andere Interessierte.
 
-Wer Erkenntnisse zu dieser Liste beisteuern will, ist herzlich willkommen. Entweder per Merge Request auf GitHub oder per E-Mail. Meine Kontaktdaten sind oben verlinkt.
+Wer Erkenntnisse zu dieser Liste beisteuern will, ist herzlich willkommen. Entweder per Issue, Merge Request auf GitHub oder per E-Mail. Meine Kontaktdaten sind oben verlinkt.
 
 ## Einleitung
 
