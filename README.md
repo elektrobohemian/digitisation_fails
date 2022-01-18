@@ -424,7 +424,10 @@ Bund baut Repo für "Open" Source Software, im Testbetrieb ist das System jedoch
 
 * [Berliner Wasserbetriebe](https://www.bwb.de/de/24762.php)
 * [Initiative D21](https://twitter.com/dzellhf/status/1380133559000834049)
-
+* Hack von ZEFYS (Staatsbibliothek zu Berlin)
+    * [Erster Bericht](https://blog.sbb.berlin/kein-zugriff-auf-zefys/)
+    * [Tutorial: Alternative Zugangswege](https://blog.sbb.berlin/zefys_inhalte/)
+    * [Abschlussmeldung](https://blog.sbb.berlin/zefys-wieder-verfuegbar/)
 ## Fast ein Fail, aber die Kurve gekriegt
 
 ### Manuscripta Mediaevalia / Handschriftenportal Deutschland
