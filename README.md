@@ -180,9 +180,15 @@ Darum warnen Sicherheitsexperten vor der Luca-App](https://www.hessenschau.de/ge
 * Chronologie
     * 10.01. [Luca-App: Entscheidung über weitere Nutzung in Baden-Württemberg dauert noch](https://www.heise.de/news/Luca-App-Entscheidung-ueber-weitere-Nutzung-in-Baden-Wuerttemberg-dauert-noch-6321550.html)
     * 11.01. [BR: DIE LUCA-APP ZEIGT, WIE LEICHT WIR UNS TÄUSCHEN LASSEN](https://www.br.de/kultur/gesellschaft/luca-app-pannen-fehler-kritik-100.html)
+    * [Luca soll in Quarantäne](https://taz.de/Kritik-an-Luca-App-in-Berlin/!5827211/)
     * 12.01. [Erstes Land kündigt Vertrag](https://twitter.com/bkastl/status/1481295271049023491?s=20)
     * 12.01. [Smudo verteidigt Luca-App: Aufruf zum Löschen "schlichtweg verantwortungslos"](https://www.heise.de/news/Smudo-verteidigt-Luca-App-Aufruf-zum-Loeschen-schlichtweg-verantwortungslos-6323569.html)
+    * [Sabine Leutheusser-Schnarrenberger: Luca-App: Finger weg von unseren Corona-Kontaktdaten!](https://www.freiheit.org/de/deutschland/luca-app-finger-weg-von-unseren-corona-kontaktdaten)
+    * 13.01. [Zahlreiche Bundesländer lassen weitere Luca-Nutzung offen](https://www.sueddeutsche.de/politik/datenschutz-zahlreiche-bundeslaender-lassen-weitere-luca-nutzung-offen-dpa.urn-newsml-dpa-com-20090101-220113-99-689546)
+    * 20.01. [INTERVIEWGründer der Luca-App: "Letztes Jahr waren wir schon viel, viel weiter"](https://www.t-online.de/digital/handy/id_91513030/luca-app-gruender-letztes-jahr-waren-wir-schon-viel-viel-weiter-.html)
+    * 25.01. [Luca-App: Bayern und Sachsen-Anhalt beenden Verträge](https://www.heise.de/news/Luca-App-Bayern-und-Sachsen-Anhalt-beenden-Vertraege-6338417.html)
     * 02.02. [Daten auf dem Wühltisch](https://taz.de/Niedergang-der-Luca-App/!5829592/)
+    * 02.02. [Mit der Luca-App im Restaurant bezahlen](https://www.zdf.de/nachrichten/politik/corona-luca-app-bezahlung-restaurant-100.html#xtor=CS5-62)
 
 ### Clubhouse in Politik und Verwaltung
 * Hype um eine App vs. Digitale Teilhabe
