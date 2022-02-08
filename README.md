@@ -177,6 +177,7 @@ Darum warnen Sicherheitsexperten vor der Luca-App](https://www.hessenschau.de/ge
     * 21.12. [Stuttgarter Zeitung: Lucha hat Landtag missverständlich zu Luca informiert](https://www.stuttgarter-zeitung.de/inhalt.vertrag-zur-luca-app-lucha-hat-landtag-unvollstaendig-zu-luca-informiert.2bf2f1f5-ab9c-4970-9e6b-980646d55f5b.html?utm_term=Autofeed&utm_campaign=Echobox&utm_medium=Social&utm_source=Twitter#Echobox=1640095757)
     * 28.12. [Expertin für Kontaktverfolgung: "Die Luca-App ist technologisch tot"](https://www.heise.de/news/Expertin-fuer-Kontaktverfolgung-Die-Luca-App-ist-technologisch-tot-6314412.html)
 #### 2022    
+* Chronologie
     * 10.01. [Luca-App: Entscheidung über weitere Nutzung in Baden-Württemberg dauert noch](https://www.heise.de/news/Luca-App-Entscheidung-ueber-weitere-Nutzung-in-Baden-Wuerttemberg-dauert-noch-6321550.html)
     * 11.01. [BR: DIE LUCA-APP ZEIGT, WIE LEICHT WIR UNS TÄUSCHEN LASSEN](https://www.br.de/kultur/gesellschaft/luca-app-pannen-fehler-kritik-100.html)
     * 12.01. [Erstes Land kündigt Vertrag](https://twitter.com/bkastl/status/1481295271049023491?s=20)
