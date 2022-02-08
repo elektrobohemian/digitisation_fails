@@ -1,13 +1,15 @@
 # Digitisation Fails - Eine kleine, kuratierte Liste von Fails oder solchen, die es werden könnten
 
 
-[David Zellhöfer](https://www.hwr-berlin.de/hwr-berlin/ueber-uns/personen/2429-david-zellhoefer/) (CC BY-SA-NC; 4.0 2021)
+[David Zellhöfer](https://www.hwr-berlin.de/hwr-berlin/ueber-uns/personen/2429-david-zellhoefer/) (CC BY-SA-NC; 4.0 2021f.)
 
 ## Disclaimer
 
 Bei der folgenden Liste handelt es sich um eine subjektive Auswahl mit dem Fokus auf die öffentliche Verwaltung in Deutschland. Sie dient als Themenspeicher für meine Lehrveranstaltungen und andere Interessierte.
 
 Wer Erkenntnisse zu dieser Liste beisteuern will, ist herzlich willkommen. Entweder per Issue, Merge Request auf GitHub oder per E-Mail. Meine Kontaktdaten sind oben verlinkt.
+
+Das Gegenteil dieser Liste existiert [hier](https://github.com/codedust/awesome-egov-de).
 
 ## Einleitung
 
@@ -70,7 +72,7 @@ Fail, weil das BGH mit seiner Einschätzung kaum dem Stand der Technik folgt, da
     * [heise: Digitaler Impfnachweis: CovPass kostet fünfmal mehr als geplant](https://www.heise.de/news/Digitaler-Impfnachweis-CovPass-kostet-fuenfmal-mehr-als-geplant-6265804.html)
     * [Zeit: Corona-Warn-App- Besser, als Sie denken](https://www.zeit.de/digital/mobil/2021-06/corona-warn-app-bundesregierung-digitalisierung-infektionsketten-datenschut?utm_referrer=https%3A%2F%2Ft.co%2F)
     
-    #### Chronologie 2021
+    #### Chronologie 2021.
 
     [Generelle Timeline](https://timeline.luca.fail)
 
@@ -170,7 +172,16 @@ Darum warnen Sicherheitsexperten vor der Luca-App](https://www.hessenschau.de/ge
     * 09.11. [heise: Steuerzahlerbund rügt Luca-App, digitalen Impfnachweis und IT-Chaos beim Bund](https://www.heise.de/news/Steuerzahlerbund-ruegt-Luca-App-digitalen-Impfnachweis-und-IT-Chaos-beim-Bund-6262887.html)
     * 09.11. [LUCA-App: Vorauszahlungen mit zweifelhaftem Nutzen](https://www.schwarzbuch.de/aufgedeckt/steuergeldverschwendung-alle-faelle/details/luca-app-vorauszahlungen-mit-zweifelhaftem-nutzen)
     * 11.11. [Direktvergabe der Luca-App durch das Land MV vergaberechtswidrig erfolgt](https://www.mv-justiz.de/gerichte-und-staatsanwaltschaften/ordentliche-gerichte/oberlandesgericht-rostock/Aktuelles/?id=175558&processor=processor.sa.pressemitteilung)
+    * [Die Zukunft der Luca-App ist ungewiss](https://pbs.twimg.com/media/FETQmq7XEAEgXYm?format=jpg&name=medium)
     * 22.11. [t3n: Ministerium hält früheres Vertragsende von Luca-App für denkbar](https://t3n.de/news/ministerium-vertragsende-luca-app-1429908/)
+    * 21.12. [Stuttgarter Zeitung: Lucha hat Landtag missverständlich zu Luca informiert](https://www.stuttgarter-zeitung.de/inhalt.vertrag-zur-luca-app-lucha-hat-landtag-unvollstaendig-zu-luca-informiert.2bf2f1f5-ab9c-4970-9e6b-980646d55f5b.html?utm_term=Autofeed&utm_campaign=Echobox&utm_medium=Social&utm_source=Twitter#Echobox=1640095757)
+    * 28.12. [Expertin für Kontaktverfolgung: "Die Luca-App ist technologisch tot"](https://www.heise.de/news/Expertin-fuer-Kontaktverfolgung-Die-Luca-App-ist-technologisch-tot-6314412.html)
+#### 2022    
+    * 10.01. [Luca-App: Entscheidung über weitere Nutzung in Baden-Württemberg dauert noch](https://www.heise.de/news/Luca-App-Entscheidung-ueber-weitere-Nutzung-in-Baden-Wuerttemberg-dauert-noch-6321550.html)
+    * 11.01. [BR: DIE LUCA-APP ZEIGT, WIE LEICHT WIR UNS TÄUSCHEN LASSEN](https://www.br.de/kultur/gesellschaft/luca-app-pannen-fehler-kritik-100.html)
+    * 12.01. [Erstes Land kündigt Vertrag](https://twitter.com/bkastl/status/1481295271049023491?s=20)
+    * 12.01. [Smudo verteidigt Luca-App: Aufruf zum Löschen "schlichtweg verantwortungslos"](https://www.heise.de/news/Smudo-verteidigt-Luca-App-Aufruf-zum-Loeschen-schlichtweg-verantwortungslos-6323569.html)
+    * 02.02. [Daten auf dem Wühltisch](https://taz.de/Niedergang-der-Luca-App/!5829592/)
 
 ### Clubhouse in Politik und Verwaltung
 * Hype um eine App vs. Digitale Teilhabe
@@ -251,6 +262,7 @@ Vom Experiment einer Gesellschaft ohne Vertrauen"](./sources/rehak_blockchain.pd
 * [Mythos Blockchain - Zwischen Hoffnung und Realität](https://www.oeffentliche-it.de/publikationen?doc=221689&title=Mythos+Blockchain+-+Zwischen+Hoffnung+und+Realität)
 
 ### IDwallet
+* [Website der Bundesregierung: Nachweise für die digitale Brieftasche](https://www.bundesregierung.de/breg-de/suche/e-id-1962112)
 * [Die schönsten #IDWallet Fehlermeldungen](https://gist.github.com/rena2019/a7d68aceded5a99439504656ea8ffef0)
 * [netzpolitik.org: Kopfsprung mit Anlauf ins leere Becken](https://netzpolitik.org/2021/id-wallet-kopfsprung-mit-anlauf-ins-leere-becken/)
 * [t3n: Digitaler Führerschein: ID Wallet mit enormen Startschwierigkeiten](https://t3n.de/news/digitaler-fuehrerschein-id-schwierigkeiten-1410191/)
