@@ -229,7 +229,11 @@ Schülerscherze und Angriffe - Unbekannter stören den Onlineunterricht; c't 202
 * 07.05. [Schule digital: Die Lösung BelWü – hinter den Kulissen des Fernunterrichts](https://www.heise.de/hintergrund/Schule-digital-Die-Loesung-BelWue-hinter-den-Kulissen-des-Fernunterrichts-6027513.html)
 * 13.05. [Schul-IT in Baden-Württemberg: Das große Chaos](https://netzpolitik.org/2021/schul-it-in-baden-wuerttemberg-das-grosse-chaos/)
 * [heise: Datenschutz: Weitere Gnadenfrist für Microsoft Teams an hessischen Schulen](https://www.heise.de/news/Datenschutz-Weitere-Gnadenfrist-fuer-Microsoft-Teams-an-hessischen-Schulen-6135290.html)
+
+#### Schul-Cloud generell
+
 * [heise: HPI-Schul-Cloud: Projekt endet in Übernahme durch drei Bundesländer](https://www.heise.de/news/HPI-Schul-Cloud-Projekt-endet-in-Uebernahme-durch-drei-Bundeslaender-6129533.html)
+* [Prüfung bestanden](https://www.rbb24.de/politik/beitrag/2021/07/brandenburg-schule-schulcloud-weiterentwicklung.html)
 
 ### Cryptowars
 _Cryptowars_ ist insobesondere spannend, weil sich hier zeigt, dass es Teilen der Politik an Digital Literacy und Willen mangelt, wissenschaftliche Fakten anzuerkennen
@@ -267,8 +271,11 @@ Vom Experiment einer Gesellschaft ohne Vertrauen"](./sources/rehak_blockchain.pd
 * [Blockchain + SSI = ID?](https://medium.com/@ckahlo/blockchain-ssi-id-d7e51d98d050)
 * [heise: Blockchain-Strategie der Bundesregierung liefert bislang wenig Ergebnisse](https://www.heise.de/news/Blockchain-Strategie-der-Bundesregierung-lieferte-bislang-wenig-Ergebnisse-6114983.html)
 * [Mythos Blockchain - Zwischen Hoffnung und Realität](https://www.oeffentliche-it.de/publikationen?doc=221689&title=Mythos+Blockchain+-+Zwischen+Hoffnung+und+Realität)
+* Zeugnisse und Blockchain
+    * [Bundesdruckerei: Statement zur Entwicklung des Digitalen Schulzeugnisses](https://www.bundesdruckerei.de/de/newsroom/statement-zur-entwicklung-des-digitalen-schulzeugnisses)
 
 ### IDwallet
+* [Frag Den Staat: ID Wallet des Bundeskanzleramts, ein Projekt der Bundesregierung: Datenschutzrechtliche Aspekte](https://fragdenstaat.de/anfrage/id-wallet-des-bundeskanzleramts-ein-projekt-der-bundesregierung-datenschutzrechtliche-aspekte/)
 * [Website der Bundesregierung: Nachweise für die digitale Brieftasche](https://www.bundesregierung.de/breg-de/suche/e-id-1962112)
 * [Die schönsten #IDWallet Fehlermeldungen](https://gist.github.com/rena2019/a7d68aceded5a99439504656ea8ffef0)
 * [netzpolitik.org: Kopfsprung mit Anlauf ins leere Becken](https://netzpolitik.org/2021/id-wallet-kopfsprung-mit-anlauf-ins-leere-becken/)
@@ -308,6 +315,9 @@ ITDZ trennt Kammergericht Berlin vom Netz wg. Sicherheitsvorfällen, vorbildlich
 
 #### Anhalt-Bitterfeld
 
+2021
+
+* 09.07. [Nach Malware-Infektion: Katastrophenfall im Landkreis Anhalt-Bitterfeld](https://www.heise.de/news/Nach-Malware-Infektion-Katastrophenfall-im-Landkreis-Anhalt-Bitterfeld-6133923.html)
 * 09.07. [MDR: Anhalt-Bitterfeld: "Situation ist beschissen, aber nicht hoffnungslos"](https://www.mdr.de/nachrichten/sachsen-anhalt/dessau/hacker-angriff-anhalt-bitterfeld-pressekonferenz-100.html)
 * 10.07. [FAZ: Erster Cyber-Katastrophenfall in Deutschland](https://www.faz.net/aktuell/wirtschaft/digitec/erster-cyber-katastrophenfall-in-deutschland-landkreis-liegt-lahm-17431739.html)
 * 16.07. [heise: Cyberangriff auf Anhalt-Bitterfeld: Suche nach Lücken, Stellungnahme des CCC](https://www.heise.de/news/Cyberangriff-auf-Anhalt-Bitterfeld-Suche-nach-Luecken-Stellungnahme-des-CCC-6140238.html)
@@ -405,6 +415,8 @@ GAIA-X und die Cloud- ein wahrscheinlicher Fail im Rahmen der Digitalen Souverä
 
 * [Der ÖFIT-Selbsttest zur digitalen Souveränität von Organisationen](https://www.oeffentliche-it.de/selbsttest-digitale-souveraenitaet)
 * [Digitale Souveränität - Teures Prestigeprojekt](https://www.heise.de/news/Teures-Prestigeprojekt-Europas-souveraene-Chips-6010032.html)
+* [Öffentlicher Sourcecode für mehr digitale Souveränität](https://www.heise.de/news/Oeffentlicher-Sourcecode-fuer-mehr-digitale-Souveraenitaet-6036956.html)
+* [SAP und Arvato versprechen "souveräne" Microsoft-Cloud für Behörden](https://www.heise.de/news/SAP-und-Arvato-versprechen-souveraene-Microsoft-Cloud-fuer-Behoerden-6346760.html)
 
 ### Einsatz von Open Source Software in der öffentlichen Verwaltung
 
@@ -415,6 +427,8 @@ Bund baut Repo für "Open" Source Software, im Testbetrieb ist das System jedoch
 * [heise: EU-Studie: Europa pennt auch bei Open Source](https://www.heise.de/news/EU-Studie-Europa-pennt-auch-bei-Open-Source-6194883.html)
 * [European Commission: Study about the impact of open source software and hardware on technological independence, competitiveness and innovation in the EU economy](https://digital-strategy.ec.europa.eu/en/library/study-about-impact-open-source-software-and-hardware-technological-independence-competitiveness-and)
 * [PODCAST: Open Source als Baustein europäischer Innovationspolitik](https://radiocitylab.podigee.io/5-open-source-als-baustein-europaischer-innovationspolitik)
+* [Bundesregierung plant Portal für Open-Source-Software in der Verwaltung](https://www.heise.de/news/Bundesregierung-plant-Portal-fuer-Open-Source-Software-in-der-Verwaltung-6124712.html)
+* [Schleswig-Holsteins Digitalminister Albrecht über den Wechsel zu Open Source](https://www.heise.de/news/Schleswig-Holsteins-Digitalminister-Albrecht-ueber-den-Wechsel-zu-Open-Source-6221361.html)
 
 
 
