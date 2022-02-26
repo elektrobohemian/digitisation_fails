@@ -265,6 +265,9 @@ _Cryptowars_ ist insobesondere spannend, weil sich hier zeigt, dass es Teilen de
 * [Schweizer Farce: Digitaler Impfausweis scheitert](https://www.heise.de/news/Schweizer-Farce-Digitaler-Impfausweis-scheitert-in-Skandal-6047902.html)
 * [Digitaler Corona-Impfpass: IBM, Ubirch und fünf Blockchains](https://www.heise.de/news/Digitaler-Corona-Impfpass-IBM-Ubirch-und-fuenf-Blockchains-5076161.html)
 
+### E-Rezept
+
+* [golem.de: Einführung des E-Rezepts verschoben](https://www.golem.de/news/gesundheit-einfuehrung-des-e-rezepts-verschoben-2112-161950.html)
 ### Blockchain
 * [R. Rehak: "Die Blockchain politisch gelesen
 Vom Experiment einer Gesellschaft ohne Vertrauen"](./sources/rehak_blockchain.pdf)
@@ -273,6 +276,7 @@ Vom Experiment einer Gesellschaft ohne Vertrauen"](./sources/rehak_blockchain.pd
 * [Mythos Blockchain - Zwischen Hoffnung und Realität](https://www.oeffentliche-it.de/publikationen?doc=221689&title=Mythos+Blockchain+-+Zwischen+Hoffnung+und+Realität)
 * Zeugnisse und Blockchain
     * [Bundesdruckerei: Statement zur Entwicklung des Digitalen Schulzeugnisses](https://www.bundesdruckerei.de/de/newsroom/statement-zur-entwicklung-des-digitalen-schulzeugnisses)
+    * [Berlin hält Projekt an](https://twitter.com/Tobias_Schulze/status/1496405718764769288?s=20&t=1qbaoQXjmwufY8XPSsNGjA)
 
 ### IDwallet
 * [Frag Den Staat: ID Wallet des Bundeskanzleramts, ein Projekt der Bundesregierung: Datenschutzrechtliche Aspekte](https://fragdenstaat.de/anfrage/id-wallet-des-bundeskanzleramts-ein-projekt-der-bundesregierung-datenschutzrechtliche-aspekte/)
