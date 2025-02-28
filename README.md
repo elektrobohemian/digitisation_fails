@@ -36,6 +36,9 @@ Lehren aus der Corona-Krise; Gutachten des Wissenschaftlichen Beirats beim Bunde
 
 ## Fails
 
+### Windows Copilot+ Recall
+* [TotalRecall - a 'privacy nightmare'?](https://github.com/xaitax/TotalRecall)
+
 ### DeMail
 Henne-Ei-Problem, keine Annahme in der ÖV, kein wirklicher Sicherheitsgewinn gegenüber klassischer E-Mail
 sichere Lösung ohne Ende-zu-Ende-Verschlüsselung? nur optional mit PGP
